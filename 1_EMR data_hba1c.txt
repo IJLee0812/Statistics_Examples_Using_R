@@ -1,0 +1,4816 @@
+pid	redcap_event_name	ht	wt	sbp	dbp	hba1c
+306	enrollment_arm_1					
+306	visit_0_arm_1	169	88			7.4
+306	visit_1_arm_1		83	107	70	6.6
+306	visit_2_arm_1		83	106	75	6.5
+306	visit_3_arm_1					
+306	visit_4_arm_1		83	106	75	6.7
+306	cm_arm_1					
+306	cm_arm_1					
+306	cm_arm_1					
+306	cm_arm_1					
+306	mh_arm_1					
+306	mh_arm_1					
+866	enrollment_arm_1					
+866	visit_0_arm_1	173	85.7	145	85	6.2
+866	visit_1_arm_1		84			6.9
+866	visit_2_arm_1					7
+866	visit_3_arm_1		80			6.4
+866	visit_4_arm_1			118	77	6.4
+866	cm_arm_1					
+866	cm_arm_1					
+866	cm_arm_1					
+866	cm_arm_1					
+866	mh_arm_1					
+896	enrollment_arm_1					
+896	visit_0_arm_1	179.3	105.5	120	83	14.6
+896	visit_1_arm_1		102			10.1
+896	visit_2_arm_1		100			13.6
+896	visit_3_arm_1		100			13.6
+896	visit_4_arm_1		100			14.1
+896	cm_arm_1					
+896	cm_arm_1					
+896	cm_arm_1					
+896	cm_arm_1					
+896	cm_arm_1					
+896	cm_arm_1					
+896	mh_arm_1					
+906	enrollment_arm_1					
+906	visit_0_arm_1	174.1	70			
+906	visit_1_arm_1		70			6.5
+906	visit_2_arm_1		70			6.6
+906	visit_3_arm_1		70			7.8
+906	visit_4_arm_1		70			8.2
+906	cm_arm_1					
+906	cm_arm_1					
+906	cm_arm_1					
+906	cm_arm_1					
+906	cm_arm_1					
+906	mh_arm_1					
+906	mh_arm_1					
+912	enrollment_arm_1					
+912	visit_0_arm_1	161	59	144	87	7.5
+912	visit_1_arm_1					
+912	visit_2_arm_1					
+912	visit_3_arm_1					
+912	visit_4_arm_1					
+912	cm_arm_1					
+912	mh_arm_1					
+920	enrollment_arm_1					
+920	visit_0_arm_1	148	49			6.2
+920	visit_1_arm_1		49			8.2
+920	visit_2_arm_1		49			8.5
+920	visit_3_arm_1		49			7.6
+920	visit_4_arm_1		49			6
+920	cm_arm_1					
+920	cm_arm_1					
+920	cm_arm_1					
+920	cm_arm_1					
+920	cm_arm_1					
+920	cm_arm_1					
+920	mh_arm_1					
+920	mh_arm_1					
+921	enrollment_arm_1					
+921	visit_0_arm_1	156	68			8.8
+921	visit_1_arm_1		68			8.7
+921	visit_2_arm_1		68			9.3
+921	visit_3_arm_1		68			9.7
+921	visit_4_arm_1		68			8.2
+921	cm_arm_1					
+921	cm_arm_1					
+921	cm_arm_1					
+921	cm_arm_1					
+921	cm_arm_1					
+921	mh_arm_1					
+921	mh_arm_1					
+924	enrollment_arm_1					
+924	visit_0_arm_1	169	63	126	80	7.3
+924	visit_1_arm_1		63			7.4
+924	visit_2_arm_1		63			7.6
+924	visit_3_arm_1		68			6.9
+924	visit_4_arm_1		68	117	76	6.9
+924	cm_arm_1					
+924	cm_arm_1					
+924	cm_arm_1					
+924	mh_arm_1					
+924	mh_arm_1					
+925	enrollment_arm_1					
+925	visit_0_arm_1	150	50	108	65	6.9
+925	visit_1_arm_1					
+925	visit_2_arm_1		50			7.8
+925	visit_3_arm_1		50			7.9
+925	visit_4_arm_1					8.1
+925	cm_arm_1					
+925	cm_arm_1					
+925	cm_arm_1					
+925	cm_arm_1					
+925	cm_arm_1					
+925	cm_arm_1					
+925	mh_arm_1					
+925	mh_arm_1					
+925	mh_arm_1					
+926	enrollment_arm_1					
+926	visit_0_arm_1	176	67	109	72	7.2
+926	visit_1_arm_1		67			9.5
+926	visit_2_arm_1		66	111	71	6.5
+926	visit_3_arm_1					
+926	visit_4_arm_1		67			6.9
+926	cm_arm_1					
+926	cm_arm_1					
+926	cm_arm_1					
+926	cm_arm_1					
+926	mh_arm_1					
+929	enrollment_arm_1					
+929	visit_0_arm_1	153	58	127	66	7.9
+929	visit_1_arm_1		60			8.6
+929	visit_2_arm_1		60	116	66	9
+929	visit_3_arm_1		60	111	57	8.4
+929	visit_4_arm_1		60	136	72	7
+929	cm_arm_1					
+929	cm_arm_1					
+929	cm_arm_1					
+929	cm_arm_1					
+929	mh_arm_1					
+929	mh_arm_1					
+929	mh_arm_1					
+929	mh_arm_1					
+930	enrollment_arm_1					
+930	visit_0_arm_1	155	51			8.3
+930	visit_1_arm_1		51	108	54	6.8
+930	visit_2_arm_1		51	102	54	7.4
+930	visit_3_arm_1		51	110	64	7.4
+930	visit_4_arm_1		51			6.7
+930	cm_arm_1					
+930	cm_arm_1					
+930	cm_arm_1					
+930	cm_arm_1					
+930	cm_arm_1					
+930	cm_arm_1					
+930	mh_arm_1					
+930	mh_arm_1					
+931	enrollment_arm_1					
+931	visit_0_arm_1	165	68			7.5
+931	visit_1_arm_1					
+931	visit_2_arm_1		71	105	56	7.2
+931	visit_3_arm_1		71	131	75	8.3
+931	visit_4_arm_1		71	118	74	7.7
+931	cm_arm_1					
+931	cm_arm_1					
+931	cm_arm_1					
+931	cm_arm_1					
+931	cm_arm_1					
+931	mh_arm_1					
+931	mh_arm_1					
+931	mh_arm_1					
+932	enrollment_arm_1					
+932	visit_0_arm_1	153	53	131	81	7.1
+932	visit_1_arm_1		53			7
+932	visit_2_arm_1					
+932	visit_3_arm_1		53			6.7
+932	visit_4_arm_1		53	139	70	6.8
+932	cm_arm_1					
+932	cm_arm_1					
+932	cm_arm_1					
+932	cm_arm_1					
+932	mh_arm_1					
+932	mh_arm_1					
+933	enrollment_arm_1					
+933	visit_0_arm_1	180	80	110	68	7.7
+933	visit_1_arm_1					
+933	visit_2_arm_1		80	108	72	6.8
+933	visit_3_arm_1					
+933	visit_4_arm_1		80	123	82	7.9
+933	cm_arm_1					
+933	cm_arm_1					
+933	cm_arm_1					
+933	cm_arm_1					
+933	cm_arm_1					
+933	mh_arm_1					
+933	mh_arm_1					
+933	mh_arm_1					
+934	enrollment_arm_1					
+934	visit_0_arm_1	170	68.8	166	82	7.5
+934	visit_1_arm_1					6.3
+934	visit_2_arm_1		67	155	70	6.3
+934	visit_3_arm_1		68.6			6.9
+934	visit_4_arm_1		68.8	121	65	5.8
+934	cm_arm_1					
+934	cm_arm_1					
+934	cm_arm_1					
+934	cm_arm_1					
+934	cm_arm_1					
+934	cm_arm_1					
+934	cm_arm_1					
+934	cm_arm_1					
+934	cm_arm_1					
+934	mh_arm_1					
+934	mh_arm_1					
+934	mh_arm_1					
+935	enrollment_arm_1					
+935	visit_0_arm_1	168	85	123	77	11.8
+935	visit_1_arm_1		85	113	75	6.8
+935	visit_2_arm_1		85	109	69	7.3
+935	visit_3_arm_1		83	115	68	6.9
+935	visit_4_arm_1					
+935	cm_arm_1					
+935	cm_arm_1					
+935	cm_arm_1					
+935	cm_arm_1					
+935	mh_arm_1					
+936	enrollment_arm_1					
+936	visit_0_arm_1	168	51	109	69	
+936	visit_1_arm_1		51	106	65	5.7
+936	visit_2_arm_1		51	101	68	5.1
+936	visit_3_arm_1		51			
+936	visit_4_arm_1		51			
+936	cm_arm_1					
+936	cm_arm_1					
+936	cm_arm_1					
+936	mh_arm_1					
+936	mh_arm_1					
+938	enrollment_arm_1					
+938	visit_0_arm_1	179	79			11.1
+938	visit_1_arm_1					
+938	visit_2_arm_1					
+938	visit_3_arm_1					
+938	visit_4_arm_1					
+938	cm_arm_1					
+938	cm_arm_1					
+938	cm_arm_1					
+938	cm_arm_1					
+938	mh_arm_1					
+939	enrollment_arm_1					
+939	visit_0_arm_1	164.5	60	112	70	9.1
+939	visit_1_arm_1		60			8.1
+939	visit_2_arm_1					
+939	visit_3_arm_1					
+939	visit_4_arm_1					
+939	cm_arm_1					
+939	cm_arm_1					
+939	mh_arm_1					
+939	mh_arm_1					
+940	enrollment_arm_1					
+940	visit_0_arm_1	160.5	50	112	74	8.3
+940	visit_1_arm_1		66	131	71	7.7
+940	visit_2_arm_1		66			8.7
+940	visit_3_arm_1		66			9.7
+940	visit_4_arm_1		66	140	82	8.6
+940	cm_arm_1					
+940	cm_arm_1					
+940	cm_arm_1					
+940	cm_arm_1					
+940	cm_arm_1					
+940	cm_arm_1					
+940	mh_arm_1					
+940	mh_arm_1					
+942	enrollment_arm_1					
+942	visit_0_arm_1	160	52	101	53	7.7
+942	visit_1_arm_1					
+942	visit_2_arm_1		51			8.9
+942	visit_3_arm_1			129	78	7.4
+942	visit_4_arm_1		52	123	66	7.2
+942	cm_arm_1					
+942	cm_arm_1					
+942	cm_arm_1					
+942	cm_arm_1					
+942	cm_arm_1					
+942	cm_arm_1					
+942	cm_arm_1					
+942	cm_arm_1					
+942	mh_arm_1					
+942	mh_arm_1					
+942	mh_arm_1					
+943	enrollment_arm_1					
+943	visit_0_arm_1	157	63	104	67	6.9
+943	visit_1_arm_1		64	95	63	7.5
+943	visit_2_arm_1		63	101	73	6.9
+943	visit_3_arm_1		63	101	73	7
+943	visit_4_arm_1		63			7.3
+943	cm_arm_1					
+943	cm_arm_1					
+943	cm_arm_1					
+943	cm_arm_1					
+943	cm_arm_1					
+943	mh_arm_1					
+943	mh_arm_1					
+943	mh_arm_1					
+944	enrollment_arm_1					
+944	visit_0_arm_1	169	70	119	63	9.5
+944	visit_1_arm_1		63			8.6
+944	visit_2_arm_1		70			
+944	visit_3_arm_1			128	79	9
+944	visit_4_arm_1					9.4
+944	cm_arm_1					
+944	cm_arm_1					
+944	cm_arm_1					
+944	cm_arm_1					
+944	cm_arm_1					
+944	cm_arm_1					
+944	mh_arm_1					
+944	mh_arm_1					
+944	mh_arm_1					
+944	mh_arm_1					
+945	enrollment_arm_1					
+945	visit_0_arm_1	168	60	128	67	6.8
+945	visit_1_arm_1		60	106	63	6.9
+945	visit_2_arm_1		60			6.9
+945	visit_3_arm_1		60	116	71	7.2
+945	visit_4_arm_1		60			
+945	cm_arm_1					
+945	cm_arm_1					
+945	cm_arm_1					
+945	cm_arm_1					
+945	cm_arm_1					
+945	mh_arm_1					
+945	mh_arm_1					
+945	mh_arm_1					
+946	enrollment_arm_1					
+946	visit_0_arm_1	168	70	125	87	6.5
+946	visit_1_arm_1					
+946	visit_2_arm_1		68	114	73	6.7
+946	visit_3_arm_1					
+946	visit_4_arm_1		67	99	74	7
+946	cm_arm_1					
+946	cm_arm_1					
+946	cm_arm_1					
+946	cm_arm_1					
+946	cm_arm_1					
+946	cm_arm_1					
+946	mh_arm_1					
+946	mh_arm_1					
+946	mh_arm_1					
+947	enrollment_arm_1					
+947	visit_0_arm_1	163.3	69	140	90	7.1
+947	visit_1_arm_1		69	140	84	7.1
+947	visit_2_arm_1		72	128	80	7.3
+947	visit_3_arm_1		72			8
+947	visit_4_arm_1		72			7.6
+947	cm_arm_1					
+947	cm_arm_1					
+947	cm_arm_1					
+947	cm_arm_1					
+947	cm_arm_1					
+947	cm_arm_1					
+947	mh_arm_1					
+947	mh_arm_1					
+948	enrollment_arm_1					
+948	visit_0_arm_1	150	65	116	64	7.7
+948	visit_1_arm_1		65	120	67	7
+948	visit_2_arm_1		65	110	55	7.6
+948	visit_3_arm_1		63	121	68	7.3
+948	visit_4_arm_1		63	119	61	7.4
+948	cm_arm_1					
+948	cm_arm_1					
+948	cm_arm_1					
+948	cm_arm_1					
+948	cm_arm_1					
+948	cm_arm_1					
+948	mh_arm_1					
+948	mh_arm_1					
+949	enrollment_arm_1					
+949	visit_0_arm_1	150	59			6.4
+949	visit_1_arm_1		59			5.8
+949	visit_2_arm_1		59	131	70	5.9
+949	visit_3_arm_1					
+949	visit_4_arm_1					
+949	cm_arm_1					
+949	cm_arm_1					
+949	cm_arm_1					
+949	cm_arm_1					
+949	cm_arm_1					
+949	cm_arm_1					
+949	mh_arm_1					
+949	mh_arm_1					
+949	mh_arm_1					
+951	enrollment_arm_1					
+951	visit_0_arm_1	156	61.2	121	85	6.1
+951	visit_1_arm_1		55	125	84	6
+951	visit_2_arm_1		55			5.8
+951	visit_3_arm_1		58	137	91	6.3
+951	visit_4_arm_1		58	128	92	6.3
+951	cm_arm_1					
+951	cm_arm_1					
+951	cm_arm_1					
+951	mh_arm_1					
+951	mh_arm_1					
+952	enrollment_arm_1					
+952	visit_0_arm_1	177	66	114	74	7.8
+952	visit_1_arm_1		63.5	105	63	7.2
+952	visit_2_arm_1		64	121	72	7.7
+952	visit_3_arm_1		64	114	63	7.6
+952	visit_4_arm_1		64	113	55	7.4
+952	cm_arm_1					
+952	cm_arm_1					
+952	cm_arm_1					
+952	cm_arm_1					
+952	cm_arm_1					
+952	mh_arm_1					
+954	enrollment_arm_1					
+955	enrollment_arm_1					
+955	visit_0_arm_1	170	63	126	74	6.8
+955	visit_1_arm_1		65	120	86	7.2
+955	visit_2_arm_1		63	100	64	6.9
+955	visit_3_arm_1					9.9
+955	visit_4_arm_1		63	139	89	8.9
+955	cm_arm_1					
+955	cm_arm_1					
+955	cm_arm_1					
+955	cm_arm_1					
+955	cm_arm_1					
+955	cm_arm_1					
+955	cm_arm_1					
+955	mh_arm_1					
+955	mh_arm_1					
+958	enrollment_arm_1					
+958	visit_0_arm_1	174	68	136	89	7.5
+958	visit_1_arm_1		68	125	74	7.4
+958	visit_2_arm_1		68	133	83	7.5
+958	visit_3_arm_1		68	140	85	7.1
+958	visit_4_arm_1		66	118	70	7.3
+958	cm_arm_1					
+958	cm_arm_1					
+958	cm_arm_1					
+958	cm_arm_1					
+958	cm_arm_1					
+958	cm_arm_1					
+958	cm_arm_1					
+958	mh_arm_1					
+958	mh_arm_1					
+958	mh_arm_1					
+958	mh_arm_1					
+959	enrollment_arm_1					
+959	visit_0_arm_1	170	70	113	79	12.4
+959	visit_1_arm_1		72	124	86	7.8
+959	visit_2_arm_1		73.5	128	77	8.8
+959	visit_3_arm_1		72	102	69	8.6
+959	visit_4_arm_1		70	101	57	8.8
+959	cm_arm_1					
+959	cm_arm_1					
+959	cm_arm_1					
+959	mh_arm_1					
+959	mh_arm_1					
+960	enrollment_arm_1					
+960	visit_0_arm_1	161	64	139	65	7.7
+960	visit_1_arm_1		65	141	69	7.3
+960	visit_2_arm_1		64	119	59	8
+960	visit_3_arm_1		56	168	77	7.5
+960	visit_4_arm_1			139	66	7.1
+960	cm_arm_1					
+960	cm_arm_1					
+960	cm_arm_1					
+960	cm_arm_1					
+960	cm_arm_1					
+960	cm_arm_1					
+960	mh_arm_1					
+960	mh_arm_1					
+960	mh_arm_1					
+962	enrollment_arm_1					
+962	visit_0_arm_1	173	65			9.5
+962	visit_1_arm_1		70	160	100	9.3
+962	visit_2_arm_1		65	139	92	8.5
+962	visit_3_arm_1		65	139	92	8.5
+962	visit_4_arm_1		66	166	99	9.7
+962	cm_arm_1					
+962	cm_arm_1					
+962	cm_arm_1					
+962	cm_arm_1					
+962	cm_arm_1					
+962	cm_arm_1					
+962	cm_arm_1					
+962	cm_arm_1					
+962	cm_arm_1					
+962	mh_arm_1					
+962	mh_arm_1					
+962	mh_arm_1					
+963	enrollment_arm_1					
+963	visit_0_arm_1	161	50	107	69	6.8
+963	visit_1_arm_1		50	106	60	
+963	visit_2_arm_1		50	106	64	6.8
+963	visit_3_arm_1		50	106	64	7.3
+963	visit_4_arm_1		50	107	68	6.8
+963	cm_arm_1					
+963	cm_arm_1					
+963	cm_arm_1					
+963	mh_arm_1					
+964	enrollment_arm_1					
+964	visit_0_arm_1	175	86.5	129	71	6.4
+964	visit_1_arm_1		91	115	72	5.9
+964	visit_2_arm_1		95	116	62	5.3
+964	visit_3_arm_1		94	122	75	
+964	visit_4_arm_1					
+964	cm_arm_1					
+964	cm_arm_1					
+964	cm_arm_1					
+964	cm_arm_1					
+964	cm_arm_1					
+964	mh_arm_1					
+964	mh_arm_1					
+965	enrollment_arm_1					
+965	visit_0_arm_1	168	55	106	59	5.6
+965	visit_1_arm_1		55	91	62	
+965	visit_2_arm_1		60	98	63	
+965	visit_3_arm_1		60	112	72	6.5
+965	visit_4_arm_1		63	114	70	
+965	cm_arm_1					
+965	cm_arm_1					
+965	cm_arm_1					
+965	mh_arm_1					
+966	enrollment_arm_1					
+966	visit_0_arm_1	154	52			7.5
+966	visit_1_arm_1					
+966	visit_2_arm_1		53.4			8.5
+966	visit_3_arm_1					7.5
+966	visit_4_arm_1		52			8.2
+966	cm_arm_1					
+966	cm_arm_1					
+966	cm_arm_1					
+966	cm_arm_1					
+966	cm_arm_1					
+966	cm_arm_1					
+966	cm_arm_1					
+966	cm_arm_1					
+966	mh_arm_1					
+966	mh_arm_1					
+967	enrollment_arm_1					
+967	visit_0_arm_1	153	63			6.6
+967	visit_1_arm_1		63	94	57	7.7
+967	visit_2_arm_1					
+967	visit_3_arm_1					
+967	visit_4_arm_1					
+967	cm_arm_1					
+967	cm_arm_1					
+967	cm_arm_1					
+967	mh_arm_1					
+968	enrollment_arm_1					
+968	visit_0_arm_1	168	88	129	80	9.5
+968	visit_1_arm_1		80	111	76	8.6
+968	visit_2_arm_1		81	115	78	6.2
+968	visit_3_arm_1		88	128	90	8.8
+968	visit_4_arm_1		88	120	80	6.2
+968	cm_arm_1					
+968	cm_arm_1					
+968	cm_arm_1					
+968	mh_arm_1					
+969	enrollment_arm_1					
+969	visit_0_arm_1	162	52			7.3
+969	visit_1_arm_1		52	119	65	6.8
+969	visit_2_arm_1		52	121	63	6.6
+969	visit_3_arm_1					
+969	visit_4_arm_1		54	127	68	6.7
+969	cm_arm_1					
+969	cm_arm_1					
+969	cm_arm_1					
+969	cm_arm_1					
+969	cm_arm_1					
+969	mh_arm_1					
+969	mh_arm_1					
+970	enrollment_arm_1					
+970	visit_0_arm_1	162	49			6.4
+970	visit_1_arm_1					
+970	visit_2_arm_1					
+970	visit_3_arm_1			112	73	6.6
+970	visit_4_arm_1		49			7.2
+970	cm_arm_1					
+970	cm_arm_1					
+970	mh_arm_1					
+971	enrollment_arm_1					
+971	visit_0_arm_1	160	67	102	63	11.4
+971	visit_1_arm_1		70			
+971	visit_2_arm_1		68	118	67	10.6
+971	visit_3_arm_1		72	114	75	10.7
+971	visit_4_arm_1		72	111	74	10.8
+971	cm_arm_1					
+971	cm_arm_1					
+971	cm_arm_1					
+971	cm_arm_1					
+971	cm_arm_1					
+971	mh_arm_1					
+972	enrollment_arm_1					
+972	visit_0_arm_1	160	73.8	100	55	5.2
+972	visit_1_arm_1					
+972	visit_2_arm_1					
+972	visit_3_arm_1					
+972	visit_4_arm_1					
+972	mh_arm_1					
+974	enrollment_arm_1					
+974	visit_0_arm_1	166	70	121	77	7.3
+974	visit_1_arm_1		70	140	74	7.5
+974	visit_2_arm_1					
+974	visit_3_arm_1		70			10.2
+974	visit_4_arm_1					
+974	cm_arm_1					
+974	cm_arm_1					
+974	cm_arm_1					
+974	cm_arm_1					
+974	cm_arm_1					
+974	mh_arm_1					
+974	mh_arm_1					
+975	enrollment_arm_1					
+975	visit_0_arm_1	165	62.7			7
+975	visit_1_arm_1					
+975	visit_2_arm_1		62			7
+975	visit_3_arm_1					
+975	visit_4_arm_1		62	134	70	7
+975	cm_arm_1					
+975	cm_arm_1					
+975	cm_arm_1					
+975	cm_arm_1					
+975	cm_arm_1					
+975	mh_arm_1					
+975	mh_arm_1					
+976	enrollment_arm_1					
+976	visit_0_arm_1	170	67	127	67	7.5
+976	visit_1_arm_1		66	132	78	7.6
+976	visit_2_arm_1		66			
+976	visit_3_arm_1					
+976	visit_4_arm_1					
+976	cm_arm_1					
+976	cm_arm_1					
+976	cm_arm_1					
+976	cm_arm_1					
+976	cm_arm_1					
+976	mh_arm_1					
+976	mh_arm_1					
+976	mh_arm_1					
+977	enrollment_arm_1					
+977	visit_0_arm_1	167	50	138	85	13.3
+977	visit_1_arm_1		53	102	62	9.5
+977	visit_2_arm_1					9.1
+977	visit_3_arm_1		52	113	67	9.5
+977	visit_4_arm_1					
+977	cm_arm_1					
+977	cm_arm_1					
+977	cm_arm_1					
+977	cm_arm_1					
+977	mh_arm_1					
+978	enrollment_arm_1					
+978	visit_0_arm_1	174	89	120	78	8.1
+978	visit_1_arm_1		89	110	68	7.5
+978	visit_2_arm_1		89	135	85	8.2
+978	visit_3_arm_1		85	115	71	7.6
+978	visit_4_arm_1		91	113	73	7.5
+978	cm_arm_1					
+978	cm_arm_1					
+978	cm_arm_1					
+978	cm_arm_1					
+978	cm_arm_1					
+978	cm_arm_1					
+978	cm_arm_1					
+978	cm_arm_1					
+978	cm_arm_1					
+978	mh_arm_1					
+978	mh_arm_1					
+978	mh_arm_1					
+979	enrollment_arm_1					
+979	visit_0_arm_1	160	66.2	143	61	8.3
+979	visit_1_arm_1		66.2			8
+979	visit_2_arm_1		66.2	148	78	8.4
+979	visit_3_arm_1			172	72	8.2
+979	visit_4_arm_1			138	57	8.7
+979	cm_arm_1					
+979	cm_arm_1					
+979	cm_arm_1					
+979	cm_arm_1					
+979	cm_arm_1					
+979	cm_arm_1					
+979	cm_arm_1					
+979	cm_arm_1					
+979	mh_arm_1					
+979	mh_arm_1					
+979	mh_arm_1					
+979	mh_arm_1					
+980	enrollment_arm_1					
+980	visit_0_arm_1	162	66			6.3
+980	visit_1_arm_1					
+980	visit_2_arm_1		63	108	63	6.2
+980	visit_3_arm_1					
+980	visit_4_arm_1		63	93	63	6.1
+980	cm_arm_1					
+980	cm_arm_1					
+980	cm_arm_1					
+980	mh_arm_1					
+980	mh_arm_1					
+981	enrollment_arm_1					
+981	visit_0_arm_1	180	94	120	77	7
+981	visit_1_arm_1					
+981	visit_2_arm_1					
+981	visit_3_arm_1					
+981	visit_4_arm_1					
+981	cm_arm_1					
+981	cm_arm_1					
+981	mh_arm_1					
+981	mh_arm_1					
+982	enrollment_arm_1					
+982	visit_0_arm_1	172	73	115	70	7.5
+982	visit_1_arm_1		73	115	70	8
+982	visit_2_arm_1		73	119	75	7.5
+982	visit_3_arm_1		73	121	81	8
+982	visit_4_arm_1		71	124	78	8.4
+982	cm_arm_1					
+982	cm_arm_1					
+982	cm_arm_1					
+982	cm_arm_1					
+982	cm_arm_1					
+982	cm_arm_1					
+982	cm_arm_1					
+982	cm_arm_1					
+982	cm_arm_1					
+982	cm_arm_1					
+982	cm_arm_1					
+982	mh_arm_1					
+982	mh_arm_1					
+983	enrollment_arm_1					
+983	visit_0_arm_1	158	72	120	86	
+983	visit_1_arm_1		73	117	80	5.5
+983	visit_2_arm_1					
+983	visit_3_arm_1		68	116	89	5.7
+983	visit_4_arm_1					
+983	mh_arm_1					
+984	enrollment_arm_1					
+984	visit_0_arm_1	168	48	113	73	5.2
+984	visit_1_arm_1		48			
+984	visit_2_arm_1		48			
+984	visit_3_arm_1		47	124	55	
+984	visit_4_arm_1		46			
+984	mh_arm_1					
+984	mh_arm_1					
+985	enrollment_arm_1					
+985	visit_0_arm_1	172	103	112	72	7.2
+985	visit_1_arm_1					
+985	visit_2_arm_1		97	124	77	9.6
+985	visit_3_arm_1		91	125	73	5.8
+985	visit_4_arm_1		95	118	72	5.9
+985	cm_arm_1					
+985	cm_arm_1					
+985	mh_arm_1					
+986	enrollment_arm_1					
+986	visit_0_arm_1	178.1	87.1			9.2
+986	visit_1_arm_1					
+986	visit_2_arm_1					
+986	visit_3_arm_1					
+986	visit_4_arm_1					
+986	cm_arm_1					
+986	cm_arm_1					
+986	cm_arm_1					
+986	cm_arm_1					
+986	cm_arm_1					
+986	mh_arm_1					
+987	enrollment_arm_1					
+987	visit_0_arm_1	160	54			9.2
+987	visit_1_arm_1		43	99	58	9.1
+987	visit_2_arm_1		52	95	54	7.8
+987	visit_3_arm_1		43	105	61	9.5
+987	visit_4_arm_1		43			9
+987	cm_arm_1					
+987	cm_arm_1					
+987	cm_arm_1					
+987	cm_arm_1					
+987	cm_arm_1					
+988	enrollment_arm_1					
+988	visit_0_arm_1	192	108			6.4
+988	visit_1_arm_1					
+988	visit_2_arm_1		107			5.3
+988	visit_3_arm_1					
+988	visit_4_arm_1		117			5.9
+988	cm_arm_1					
+988	cm_arm_1					
+988	mh_arm_1					
+989	enrollment_arm_1					
+989	visit_0_arm_1	154	60	125	68	7.1
+989	visit_1_arm_1					
+989	visit_2_arm_1					
+989	visit_3_arm_1					
+989	visit_4_arm_1					
+989	cm_arm_1					
+989	cm_arm_1					
+989	cm_arm_1					
+989	mh_arm_1					
+990	enrollment_arm_1					
+990	visit_0_arm_1	174	80	132	89	5.5
+990	visit_1_arm_1					
+990	visit_2_arm_1					
+990	visit_3_arm_1					
+990	visit_4_arm_1					
+990	cm_arm_1					
+990	cm_arm_1					
+990	mh_arm_1					
+992	enrollment_arm_1					
+992	visit_0_arm_1	176	98			9.4
+992	visit_1_arm_1		99	115	80	8.8
+992	visit_2_arm_1		97			7.6
+992	visit_3_arm_1		98			9
+992	visit_4_arm_1		98			9.2
+992	cm_arm_1					
+992	cm_arm_1					
+992	cm_arm_1					
+992	cm_arm_1					
+992	cm_arm_1					
+992	cm_arm_1					
+992	mh_arm_1					
+992	mh_arm_1					
+994	enrollment_arm_1					
+994	visit_0_arm_1	158	54			7.4
+994	visit_1_arm_1		54	90	63	7.7
+994	visit_2_arm_1					
+994	visit_3_arm_1					
+994	visit_4_arm_1		54			7
+994	cm_arm_1					
+994	cm_arm_1					
+994	cm_arm_1					
+994	cm_arm_1					
+994	cm_arm_1					
+994	mh_arm_1					
+995	enrollment_arm_1					
+995	visit_0_arm_1	165	72	128	81	6.5
+995	visit_1_arm_1					
+995	visit_2_arm_1		71	128	74	6.4
+995	visit_3_arm_1					
+995	visit_4_arm_1			123	74	6.4
+995	cm_arm_1					
+995	cm_arm_1					
+995	cm_arm_1					
+995	cm_arm_1					
+995	mh_arm_1					
+995	mh_arm_1					
+996	enrollment_arm_1					
+996	visit_0_arm_1	170	60	115	91	8.7
+996	visit_1_arm_1		63	115	91	8.6
+996	visit_2_arm_1		60	135	96	8.2
+996	visit_3_arm_1		59	119	92	8.6
+996	visit_4_arm_1		60	125	87	8.2
+996	cm_arm_1					
+996	cm_arm_1					
+996	cm_arm_1					
+996	cm_arm_1					
+996	cm_arm_1					
+996	cm_arm_1					
+996	cm_arm_1					
+996	cm_arm_1					
+996	cm_arm_1					
+996	cm_arm_1					
+996	cm_arm_1					
+996	mh_arm_1					
+996	mh_arm_1					
+997	enrollment_arm_1					
+997	visit_0_arm_1	158	52	134	88	8.2
+997	visit_1_arm_1		52.3	111	71	7.7
+997	visit_2_arm_1		52			7.9
+997	visit_3_arm_1		52	120	80	8.4
+997	visit_4_arm_1		54			6.9
+997	cm_arm_1					
+997	cm_arm_1					
+997	cm_arm_1					
+997	cm_arm_1					
+997	cm_arm_1					
+997	cm_arm_1					
+997	cm_arm_1					
+997	mh_arm_1					
+998	enrollment_arm_1					
+998	visit_0_arm_1	162	62	116	77	6.2
+998	visit_1_arm_1		55	116	70	6.4
+998	visit_2_arm_1					
+998	visit_3_arm_1					
+998	visit_4_arm_1		52	102	62	7.8
+998	cm_arm_1					
+998	cm_arm_1					
+998	mh_arm_1					
+999	enrollment_arm_1					
+999	visit_0_arm_1	164.5	68	100	72	8.8
+999	visit_1_arm_1		69.7	116	75	6.9
+999	visit_2_arm_1		72	102	63	7.1
+999	visit_3_arm_1		72	122	73	8.8
+999	visit_4_arm_1		73			7.5
+999	cm_arm_1					
+999	cm_arm_1					
+999	cm_arm_1					
+999	cm_arm_1					
+999	cm_arm_1					
+999	cm_arm_1					
+999	cm_arm_1					
+999	cm_arm_1					
+999	mh_arm_1					
+999	mh_arm_1					
+1000	enrollment_arm_1					
+1000	visit_0_arm_1	160	53	91	52	7.2
+1000	visit_1_arm_1		52.5	85	52	7.9
+1000	visit_2_arm_1					
+1000	visit_3_arm_1		52			8.1
+1000	visit_4_arm_1		52	109	63	7.3
+1000	cm_arm_1					
+1000	cm_arm_1					
+1000	cm_arm_1					
+1000	cm_arm_1					
+1000	mh_arm_1					
+1001	enrollment_arm_1					
+1001	visit_0_arm_1	161	58	125	78	7.4
+1001	visit_1_arm_1		58	134	85	7.2
+1001	visit_2_arm_1		58	124	79	7.4
+1001	visit_3_arm_1		54.6			7.3
+1001	visit_4_arm_1			120	84	6.7
+1001	cm_arm_1					
+1001	cm_arm_1					
+1001	cm_arm_1					
+1001	cm_arm_1					
+1001	mh_arm_1					
+1001	mh_arm_1					
+1005	enrollment_arm_1					
+1005	visit_0_arm_1	159	84	120	74	4.7
+1005	visit_1_arm_1		78.75	120	74	5
+1005	visit_2_arm_1		78.75	120	74	5
+1005	visit_3_arm_1					
+1005	visit_4_arm_1					
+1005	cm_arm_1					
+1005	mh_arm_1					
+1006	enrollment_arm_1					
+1006	visit_0_arm_1	169	62	136	83	7.9
+1006	visit_1_arm_1		62	136	83	7.9
+1006	visit_2_arm_1		62	132	82	8.7
+1006	visit_3_arm_1		62	126	80	8.4
+1006	visit_4_arm_1		62	126	75	8.5
+1006	cm_arm_1					
+1006	cm_arm_1					
+1006	cm_arm_1					
+1006	cm_arm_1					
+1006	mh_arm_1					
+1007	enrollment_arm_1					
+1007	visit_0_arm_1	157	58	111	73	5.7
+1007	visit_1_arm_1		58	106	61	5.7
+1007	visit_2_arm_1		56			5.2
+1007	visit_3_arm_1					
+1007	visit_4_arm_1					
+1007	cm_arm_1					
+1007	cm_arm_1					
+1007	cm_arm_1					
+1007	cm_arm_1					
+1007	mh_arm_1					
+1008	enrollment_arm_1					
+1008	visit_0_arm_1	156.6	67.5			7.4
+1008	visit_1_arm_1		66			7.3
+1008	visit_2_arm_1		66			6.9
+1008	visit_3_arm_1					
+1008	visit_4_arm_1		67.5			7.6
+1008	cm_arm_1					
+1008	cm_arm_1					
+1008	cm_arm_1					
+1008	cm_arm_1					
+1008	cm_arm_1					
+1008	cm_arm_1					
+1008	mh_arm_1					
+1008	mh_arm_1					
+1009	enrollment_arm_1					
+1009	visit_0_arm_1	165	64	127	59	8
+1009	visit_1_arm_1		64			8.1
+1009	visit_2_arm_1		64	138	57	9
+1009	visit_3_arm_1		63	130	65	6.9
+1009	visit_4_arm_1		63	133	60	7.7
+1009	cm_arm_1					
+1009	cm_arm_1					
+1009	cm_arm_1					
+1009	cm_arm_1					
+1009	cm_arm_1					
+1009	cm_arm_1					
+1009	cm_arm_1					
+1009	cm_arm_1					
+1009	mh_arm_1					
+1009	mh_arm_1					
+1009	mh_arm_1					
+1011	enrollment_arm_1					
+1011	visit_0_arm_1	170	64.8	120	75	7.6
+1011	visit_1_arm_1		64.8	130	81	7.2
+1011	visit_2_arm_1		64.8	125	79	7.8
+1011	visit_3_arm_1		64.8			8
+1011	visit_4_arm_1		64.8			6.6
+1011	cm_arm_1					
+1011	cm_arm_1					
+1011	cm_arm_1					
+1011	cm_arm_1					
+1011	mh_arm_1					
+1012	enrollment_arm_1					
+1012	visit_0_arm_1	156	52	83	50	7.9
+1012	visit_1_arm_1		52	105	67	7
+1012	visit_2_arm_1		52	110	63	7.1
+1012	visit_3_arm_1		52	106	67	7.7
+1012	visit_4_arm_1		52	110	65	6.8
+1012	cm_arm_1					
+1012	cm_arm_1					
+1012	cm_arm_1					
+1012	cm_arm_1					
+1012	mh_arm_1					
+1012	mh_arm_1					
+1013	enrollment_arm_1					
+1013	visit_0_arm_1	153	51	137	87	7.7
+1013	visit_1_arm_1			135	90	7.6
+1013	visit_2_arm_1		51	135	83	7.6
+1013	visit_3_arm_1			133	81	7.2
+1013	visit_4_arm_1			111	66	7.7
+1013	cm_arm_1					
+1013	cm_arm_1					
+1013	cm_arm_1					
+1013	mh_arm_1					
+1013	mh_arm_1					
+1013	mh_arm_1					
+1014	enrollment_arm_1					
+1014	visit_0_arm_1	179	86			8
+1014	visit_1_arm_1		86			8.2
+1014	visit_2_arm_1		86			8.3
+1014	visit_3_arm_1		86			6.9
+1014	visit_4_arm_1		85			6.3
+1014	cm_arm_1					
+1014	cm_arm_1					
+1014	cm_arm_1					
+1014	cm_arm_1					
+1014	cm_arm_1					
+1014	cm_arm_1					
+1014	cm_arm_1					
+1014	cm_arm_1					
+1014	mh_arm_1					
+1014	mh_arm_1					
+1015	enrollment_arm_1					
+1015	visit_0_arm_1	153	51	111	65	8
+1015	visit_1_arm_1					
+1015	visit_2_arm_1		51	126	76	6.6
+1015	visit_3_arm_1		51			6.9
+1015	visit_4_arm_1					
+1015	cm_arm_1					
+1015	cm_arm_1					
+1015	cm_arm_1					
+1015	mh_arm_1					
+1015	mh_arm_1					
+1020	enrollment_arm_1					
+1020	visit_0_arm_1	170	72	152	87	7.5
+1020	visit_1_arm_1		72	124	74	6.5
+1020	visit_2_arm_1		72	133	78	6.1
+1020	visit_3_arm_1					
+1020	visit_4_arm_1		69	138	83	6.3
+1020	cm_arm_1					
+1020	cm_arm_1					
+1020	cm_arm_1					
+1020	cm_arm_1					
+1020	cm_arm_1					
+1020	mh_arm_1					
+1020	mh_arm_1					
+1021	enrollment_arm_1					
+1021	visit_0_arm_1	163	64	130	71	7.1
+1021	visit_1_arm_1					
+1021	visit_2_arm_1		64	135	69	6.7
+1021	visit_3_arm_1					
+1021	visit_4_arm_1		64	108	64	6.8
+1021	cm_arm_1					
+1021	cm_arm_1					
+1021	cm_arm_1					
+1021	mh_arm_1					
+1021	mh_arm_1					
+1022	enrollment_arm_1					
+1022	visit_0_arm_1	173	90	104	65	7.4
+1022	visit_1_arm_1		87	118	82	6.9
+1022	visit_2_arm_1		89			7.2
+1022	visit_3_arm_1		89			7.9
+1022	visit_4_arm_1		87	138	82	7.8
+1022	cm_arm_1					
+1022	cm_arm_1					
+1022	cm_arm_1					
+1022	mh_arm_1					
+1023	enrollment_arm_1					
+1023	visit_0_arm_1	166	77	143	70	7.6
+1023	visit_1_arm_1		77			9.3
+1023	visit_2_arm_1		74	126	69	9.2
+1023	visit_3_arm_1		74			7.5
+1023	visit_4_arm_1		74			7.3
+1023	cm_arm_1					
+1023	cm_arm_1					
+1023	cm_arm_1					
+1023	cm_arm_1					
+1023	cm_arm_1					
+1023	cm_arm_1					
+1023	mh_arm_1					
+1023	mh_arm_1					
+1025	enrollment_arm_1					
+1025	visit_0_arm_1	168	59	117	84	7.1
+1025	visit_1_arm_1		59	105	70	7.5
+1025	visit_2_arm_1		61	118	77	6.9
+1025	visit_3_arm_1		60			6.7
+1025	visit_4_arm_1		61	108	73	7.3
+1025	cm_arm_1					
+1025	cm_arm_1					
+1025	cm_arm_1					
+1025	cm_arm_1					
+1025	cm_arm_1					
+1025	mh_arm_1					
+1028	enrollment_arm_1					
+1028	visit_0_arm_1	168	73	127	87	7.8
+1028	visit_1_arm_1		73	118	76	6.6
+1028	visit_2_arm_1		68	125	70	6.6
+1028	visit_3_arm_1		68			7.1
+1028	visit_4_arm_1		65	125	70	6.5
+1028	cm_arm_1					
+1028	cm_arm_1					
+1028	cm_arm_1					
+1028	cm_arm_1					
+1028	cm_arm_1					
+1028	mh_arm_1					
+1028	mh_arm_1					
+1028	mh_arm_1					
+1029	enrollment_arm_1					
+1029	visit_0_arm_1	167	70	118	77	6.7
+1029	visit_1_arm_1		74	126	81	6.6
+1029	visit_2_arm_1		74	135	89	6.3
+1029	visit_3_arm_1		74	121	83	6.4
+1029	visit_4_arm_1		72			6
+1029	cm_arm_1					
+1029	cm_arm_1					
+1029	cm_arm_1					
+1029	cm_arm_1					
+1029	cm_arm_1					
+1029	mh_arm_1					
+1030	enrollment_arm_1					
+1030	visit_0_arm_1	166	60.5	96	64	5.4
+1030	visit_1_arm_1		55	107	75	5.5
+1030	visit_2_arm_1					
+1030	visit_3_arm_1					
+1030	visit_4_arm_1		56			
+1030	cm_arm_1					
+1030	cm_arm_1					
+1030	mh_arm_1					
+1032	enrollment_arm_1					
+1032	visit_0_arm_1	176	71.6	124	80	6
+1032	visit_1_arm_1					
+1032	visit_2_arm_1		75	120	85	6.2
+1032	visit_3_arm_1					
+1032	visit_4_arm_1		75	106	77	9
+1032	cm_arm_1					
+1032	cm_arm_1					
+1032	cm_arm_1					
+1032	mh_arm_1					
+1033	enrollment_arm_1					
+1033	visit_0_arm_1	172	62	96	74	10.8
+1033	visit_1_arm_1		69	99	63	9
+1033	visit_2_arm_1					
+1033	visit_3_arm_1					
+1033	visit_4_arm_1					9.3
+1033	cm_arm_1					
+1033	cm_arm_1					
+1033	cm_arm_1					
+1033	cm_arm_1					
+1033	cm_arm_1					
+1033	mh_arm_1					
+1035	enrollment_arm_1					
+1035	visit_0_arm_1	170	68	110	65	7.2
+1035	visit_1_arm_1					
+1035	visit_2_arm_1		67			6.9
+1035	visit_3_arm_1					
+1035	visit_4_arm_1		67	141	84	7.2
+1035	cm_arm_1					
+1035	cm_arm_1					
+1035	cm_arm_1					
+1035	cm_arm_1					
+1035	cm_arm_1					
+1035	mh_arm_1					
+1035	mh_arm_1					
+1035	mh_arm_1					
+1035	mh_arm_1					
+1035	mh_arm_1					
+1037	enrollment_arm_1					
+1037	visit_0_arm_1	180	82	113	80	6.6
+1037	visit_1_arm_1					
+1037	visit_2_arm_1		82	129	85	7.2
+1037	visit_3_arm_1					7.8
+1037	visit_4_arm_1		82			7.3
+1037	cm_arm_1					
+1037	cm_arm_1					
+1037	cm_arm_1					
+1037	cm_arm_1					
+1037	cm_arm_1					
+1037	cm_arm_1					
+1037	mh_arm_1					
+1037	mh_arm_1					
+1038	enrollment_arm_1					
+1038	visit_0_arm_1	165	68.5	148	83	7.5
+1038	visit_1_arm_1		68.5	150	79	7.1
+1038	visit_2_arm_1		68.5	138	82	8
+1038	visit_3_arm_1			132	69	
+1038	visit_4_arm_1			150	77	
+1038	cm_arm_1					
+1038	cm_arm_1					
+1038	cm_arm_1					
+1038	cm_arm_1					
+1038	cm_arm_1					
+1038	mh_arm_1					
+1038	mh_arm_1					
+1039	enrollment_arm_1					
+1039	visit_0_arm_1	161.5	69			12.3
+1039	visit_1_arm_1					
+1039	visit_2_arm_1					
+1039	visit_3_arm_1					
+1039	visit_4_arm_1					
+1039	cm_arm_1					
+1039	cm_arm_1					
+1039	cm_arm_1					
+1039	mh_arm_1					
+1042	enrollment_arm_1					
+1042	visit_0_arm_1	166	73			9.3
+1042	visit_1_arm_1		68			8.3
+1042	visit_2_arm_1		68			8.6
+1042	visit_3_arm_1		68			8.5
+1042	visit_4_arm_1		70			8.6
+1042	cm_arm_1					
+1042	cm_arm_1					
+1042	cm_arm_1					
+1042	cm_arm_1					
+1042	mh_arm_1					
+1045	enrollment_arm_1					
+1045	visit_0_arm_1	161	55	108	74	6.3
+1045	visit_1_arm_1		53	109	70	6.1
+1045	visit_2_arm_1					
+1045	visit_3_arm_1		53	109	70	6.1
+1045	visit_4_arm_1		55	102	72	6.1
+1045	cm_arm_1					
+1045	cm_arm_1					
+1045	cm_arm_1					
+1045	cm_arm_1					
+1045	mh_arm_1					
+1046	enrollment_arm_1					
+1046	visit_0_arm_1	170.7	76.4			10.4
+1046	visit_1_arm_1					
+1046	visit_2_arm_1					
+1046	visit_3_arm_1					
+1046	visit_4_arm_1					
+1046	mh_arm_1					
+1050	enrollment_arm_1					
+1050	visit_0_arm_1	174	85	138	91	9.9
+1050	visit_1_arm_1		85			6.1
+1050	visit_2_arm_1		81	126	78	6.1
+1050	visit_3_arm_1					
+1050	visit_4_arm_1		82	131	81	6.2
+1050	cm_arm_1					
+1050	cm_arm_1					
+1050	cm_arm_1					
+1050	mh_arm_1					
+1051	enrollment_arm_1					
+1051	visit_0_arm_1	161	61	127	76	7.1
+1051	visit_1_arm_1					
+1051	visit_2_arm_1		62	134	85	7.9
+1051	visit_3_arm_1		62	130	72	7.4
+1051	visit_4_arm_1		65	114	68	7.7
+1051	cm_arm_1					
+1051	cm_arm_1					
+1051	cm_arm_1					
+1051	mh_arm_1					
+1052	enrollment_arm_1					
+1052	visit_0_arm_1	169	67	119	86	7.4
+1052	visit_1_arm_1		67	127	82	7.4
+1052	visit_2_arm_1		69	127	84	7.6
+1052	visit_3_arm_1		67	118	71	7.5
+1052	visit_4_arm_1		65	113	70	7.5
+1052	cm_arm_1					
+1052	cm_arm_1					
+1052	mh_arm_1					
+1053	enrollment_arm_1					
+1053	visit_0_arm_1	163	52	127	88	6.2
+1053	visit_1_arm_1					
+1053	visit_2_arm_1		56	111	78	6.9
+1053	visit_3_arm_1		56			6.8
+1053	visit_4_arm_1		56			6.5
+1053	cm_arm_1					
+1053	cm_arm_1					
+1053	mh_arm_1					
+1053	mh_arm_1					
+1054	enrollment_arm_1					
+1054	visit_0_arm_1	178.5	85			6.2
+1054	visit_1_arm_1		85			6.1
+1054	visit_2_arm_1		85			6.3
+1054	visit_3_arm_1					
+1054	visit_4_arm_1		80	103	73	5.8
+1054	cm_arm_1					
+1054	cm_arm_1					
+1054	cm_arm_1					
+1054	mh_arm_1					
+1056	enrollment_arm_1					
+1056	visit_0_arm_1	160	78	131	57	9.3
+1056	visit_1_arm_1		78	130	63	8.5
+1056	visit_2_arm_1		78	133	62	8.1
+1056	visit_3_arm_1		70	133	65	7.8
+1056	visit_4_arm_1		78	129	50	7.6
+1056	cm_arm_1					
+1056	cm_arm_1					
+1056	cm_arm_1					
+1056	mh_arm_1					
+1057	enrollment_arm_1					
+1057	visit_0_arm_1	170	77	127	87	8.4
+1057	visit_1_arm_1		73	119	74	7.2
+1057	visit_2_arm_1		70	119	77	7.2
+1057	visit_3_arm_1		71	118	73	7.4
+1057	visit_4_arm_1		71	122	83	7.5
+1057	cm_arm_1					
+1057	cm_arm_1					
+1057	cm_arm_1					
+1057	mh_arm_1					
+1057	mh_arm_1					
+1057	mh_arm_1					
+1060	enrollment_arm_1					
+1060	visit_0_arm_1	154	55	143	79	7.9
+1060	visit_1_arm_1		55			7.8
+1060	visit_2_arm_1			129	62	7.8
+1060	visit_3_arm_1		55	157	83	7.4
+1060	visit_4_arm_1			148	68	6.9
+1060	cm_arm_1					
+1060	cm_arm_1					
+1060	cm_arm_1					
+1060	mh_arm_1					
+1060	mh_arm_1					
+1063	enrollment_arm_1					
+1063	visit_0_arm_1	170	64.5	123	77	6.9
+1063	visit_1_arm_1		64.5	126	76	6.6
+1063	visit_2_arm_1		64.5			6.5
+1063	visit_3_arm_1		64.5			
+1063	visit_4_arm_1		65	129	71	6.3
+1063	cm_arm_1					
+1063	cm_arm_1					
+1063	cm_arm_1					
+1063	mh_arm_1					
+1064	enrollment_arm_1					
+1064	visit_0_arm_1	152.5	52			11.3
+1064	visit_1_arm_1					
+1064	visit_2_arm_1		52			6.8
+1064	visit_3_arm_1		54	139	86	6.6
+1064	visit_4_arm_1		52			9.4
+1064	cm_arm_1					
+1064	cm_arm_1					
+1064	cm_arm_1					
+1064	cm_arm_1					
+1064	cm_arm_1					
+1064	mh_arm_1					
+1064	mh_arm_1					
+1064	mh_arm_1					
+1065	enrollment_arm_1					
+1065	visit_0_arm_1	161	65			8.7
+1065	visit_1_arm_1		65	135	68	9.5
+1065	visit_2_arm_1		65			9.5
+1065	visit_3_arm_1		65			7.6
+1065	visit_4_arm_1					
+1065	cm_arm_1					
+1065	cm_arm_1					
+1065	cm_arm_1					
+1065	cm_arm_1					
+1065	cm_arm_1					
+1065	cm_arm_1					
+1065	mh_arm_1					
+1065	mh_arm_1					
+1066	enrollment_arm_1					
+1066	visit_0_arm_1	153	52.3	105	63	6.6
+1066	visit_1_arm_1		52.3	101	59	7.7
+1066	visit_2_arm_1		54	122	72	6.9
+1066	visit_3_arm_1		54	143	78	7.1
+1066	visit_4_arm_1		54	87	55	7.3
+1066	cm_arm_1					
+1066	cm_arm_1					
+1066	cm_arm_1					
+1066	cm_arm_1					
+1066	cm_arm_1					
+1066	cm_arm_1					
+1066	cm_arm_1					
+1066	mh_arm_1					
+1066	mh_arm_1					
+1073	enrollment_arm_1					
+1073	visit_0_arm_1	167	67	107	71	5.5
+1073	visit_1_arm_1		55	101	67	5.4
+1073	visit_2_arm_1					
+1073	visit_3_arm_1					
+1073	visit_4_arm_1					
+1073	mh_arm_1					
+1074	enrollment_arm_1					
+1074	visit_0_arm_1	157	54.8	127	75	7.8
+1074	visit_1_arm_1		52.5	141	80	7.5
+1074	visit_2_arm_1		52.5	141	75	7.1
+1074	visit_3_arm_1		53.4	135	81	7
+1074	visit_4_arm_1			119	64	7.5
+1074	cm_arm_1					
+1074	cm_arm_1					
+1074	cm_arm_1					
+1074	cm_arm_1					
+1074	cm_arm_1					
+1074	mh_arm_1					
+1074	mh_arm_1					
+1076	enrollment_arm_1					
+1076	visit_0_arm_1	159	64			6.4
+1076	visit_1_arm_1					
+1076	visit_2_arm_1		64			6.5
+1076	visit_3_arm_1		64			6.4
+1076	visit_4_arm_1		64.9			6.7
+1076	cm_arm_1					
+1076	cm_arm_1					
+1076	cm_arm_1					
+1076	cm_arm_1					
+1076	mh_arm_1					
+1076	mh_arm_1					
+1076	mh_arm_1					
+1076	mh_arm_1					
+1076	mh_arm_1					
+1077	enrollment_arm_1					
+1077	visit_0_arm_1	152	56	123	78	7.6
+1077	visit_1_arm_1			117	76	7.2
+1077	visit_2_arm_1		56	134	82	7.2
+1077	visit_3_arm_1			135	81	7.6
+1077	visit_4_arm_1					6.8
+1077	cm_arm_1					
+1077	cm_arm_1					
+1077	mh_arm_1					
+1077	mh_arm_1					
+1078	enrollment_arm_1					
+1078	visit_0_arm_1	179	87			8.2
+1078	visit_1_arm_1					
+1078	visit_2_arm_1					
+1078	visit_3_arm_1					
+1078	visit_4_arm_1					
+1078	cm_arm_1					
+1078	mh_arm_1					
+1079	enrollment_arm_1					
+1079	visit_0_arm_1	166	61	131	68	10.3
+1079	visit_1_arm_1		62			
+1079	visit_2_arm_1		62	135	70	9.7
+1079	visit_3_arm_1		62	113	83	9
+1079	visit_4_arm_1		62	111	65	7.5
+1079	cm_arm_1					
+1079	cm_arm_1					
+1079	cm_arm_1					
+1079	cm_arm_1					
+1079	cm_arm_1					
+1079	cm_arm_1					
+1079	cm_arm_1					
+1079	mh_arm_1					
+1079	mh_arm_1					
+1081	enrollment_arm_1					
+1081	visit_0_arm_1	173	79			8
+1081	visit_1_arm_1		79			7.5
+1081	visit_2_arm_1		80			6.7
+1081	visit_3_arm_1		76			8.2
+1081	visit_4_arm_1		76			7.4
+1081	cm_arm_1					
+1081	cm_arm_1					
+1081	cm_arm_1					
+1081	cm_arm_1					
+1081	mh_arm_1					
+1081	mh_arm_1					
+1081	mh_arm_1					
+1082	enrollment_arm_1					
+1082	visit_0_arm_1	179	80			10.7
+1082	visit_1_arm_1					
+1082	visit_2_arm_1		80			8.9
+1082	visit_3_arm_1					
+1082	visit_4_arm_1		78			8.1
+1082	cm_arm_1					
+1082	cm_arm_1					
+1082	cm_arm_1					
+1082	cm_arm_1					
+1082	cm_arm_1					
+1082	cm_arm_1					
+1082	mh_arm_1					
+1085	enrollment_arm_1					
+1085	visit_0_arm_1	172	67	124	81	9.1
+1085	visit_1_arm_1		65	123	82	6.8
+1085	visit_2_arm_1		68	130	90	6.3
+1085	visit_3_arm_1		68	131	89	6.7
+1085	visit_4_arm_1		68	137	84	6.6
+1085	cm_arm_1					
+1085	cm_arm_1					
+1085	cm_arm_1					
+1085	cm_arm_1					
+1085	cm_arm_1					
+1085	cm_arm_1					
+1085	cm_arm_1					
+1085	mh_arm_1					
+1085	mh_arm_1					
+1088	enrollment_arm_1					
+1088	visit_0_arm_1	160	76	150	96	9.8
+1088	visit_1_arm_1					
+1088	visit_2_arm_1					
+1088	visit_3_arm_1					
+1088	visit_4_arm_1					
+1088	cm_arm_1					
+1088	cm_arm_1					
+1088	cm_arm_1					
+1088	mh_arm_1					
+1091	enrollment_arm_1					
+1091	visit_0_arm_1	162	69.4	114	70	8
+1091	visit_1_arm_1		68	102	63	7.2
+1091	visit_2_arm_1		65	102	63	7.2
+1091	visit_3_arm_1		64.6			6.8
+1091	visit_4_arm_1					
+1091	cm_arm_1					
+1091	cm_arm_1					
+1091	cm_arm_1					
+1091	cm_arm_1					
+1091	mh_arm_1					
+1091	mh_arm_1					
+1097	enrollment_arm_1					
+1097	visit_0_arm_1	180	70	114	78	10.9
+1097	visit_1_arm_1		70			7
+1097	visit_2_arm_1		70			6.3
+1097	visit_3_arm_1		70			7.1
+1097	visit_4_arm_1		70			
+1097	cm_arm_1					
+1097	cm_arm_1					
+1097	cm_arm_1					
+1097	cm_arm_1					
+1097	mh_arm_1					
+1101	enrollment_arm_1					
+1101	visit_0_arm_1	160	54.5	147	62	11.1
+1101	visit_1_arm_1		52	158	94	9.6
+1101	visit_2_arm_1		52	186	115	9.1
+1101	visit_3_arm_1		52	167	96	8.8
+1101	visit_4_arm_1		56	144	92	7.1
+1101	cm_arm_1					
+1101	cm_arm_1					
+1101	cm_arm_1					
+1101	cm_arm_1					
+1101	cm_arm_1					
+1101	cm_arm_1					
+1101	cm_arm_1					
+1101	cm_arm_1					
+1101	cm_arm_1					
+1101	mh_arm_1					
+1102	enrollment_arm_1					
+1102	visit_0_arm_1	170	71			8.2
+1102	visit_1_arm_1		75	122	92	7.8
+1102	visit_2_arm_1		76			7.5
+1102	visit_3_arm_1		76			8.1
+1102	visit_4_arm_1		74			7.9
+1102	cm_arm_1					
+1102	cm_arm_1					
+1102	cm_arm_1					
+1102	cm_arm_1					
+1102	cm_arm_1					
+1102	cm_arm_1					
+1102	mh_arm_1					
+1102	mh_arm_1					
+1103	enrollment_arm_1					
+1103	visit_0_arm_1	165	65.4	142	86	6.3
+1103	visit_1_arm_1		65.4	138	92	6.2
+1103	visit_2_arm_1		65.4	143	88	6.5
+1103	visit_3_arm_1		65.4	119	70	6.3
+1103	visit_4_arm_1					
+1103	cm_arm_1					
+1103	cm_arm_1					
+1103	cm_arm_1					
+1103	cm_arm_1					
+1103	mh_arm_1					
+1103	mh_arm_1					
+1103	mh_arm_1					
+1104	enrollment_arm_1					
+1104	visit_0_arm_1	170	72	134	82	7.1
+1104	visit_1_arm_1					
+1104	visit_2_arm_1		72			8.3
+1104	visit_3_arm_1		72			6.9
+1104	visit_4_arm_1					
+1104	cm_arm_1					
+1104	cm_arm_1					
+1104	cm_arm_1					
+1104	cm_arm_1					
+1104	mh_arm_1					
+1104	mh_arm_1					
+1105	enrollment_arm_1					
+1105	visit_0_arm_1	167	61	140	72	6.9
+1105	visit_1_arm_1		60	146	75	6
+1105	visit_2_arm_1		59	146	84	6.3
+1105	visit_3_arm_1					
+1105	visit_4_arm_1		59	150	82	6.4
+1105	cm_arm_1					
+1105	cm_arm_1					
+1105	cm_arm_1					
+1105	cm_arm_1					
+1105	mh_arm_1					
+1106	enrollment_arm_1					
+1106	visit_0_arm_1	178	85	129	88	7.4
+1106	visit_1_arm_1		85			8.5
+1106	visit_2_arm_1		85	151	101	8.9
+1106	visit_3_arm_1		85	156	95	8.5
+1106	visit_4_arm_1					
+1106	cm_arm_1					
+1106	cm_arm_1					
+1106	cm_arm_1					
+1106	cm_arm_1					
+1106	mh_arm_1					
+1107	enrollment_arm_1					
+1107	visit_0_arm_1	160	59	119	79	7.5
+1107	visit_1_arm_1		59			6.8
+1107	visit_2_arm_1		59			6.8
+1107	visit_3_arm_1					
+1107	visit_4_arm_1		59	118	72	6.9
+1107	cm_arm_1					
+1107	cm_arm_1					
+1107	cm_arm_1					
+1107	cm_arm_1					
+1107	mh_arm_1					
+1109	enrollment_arm_1					
+1109	visit_0_arm_1	163	63	112	69	7.5
+1109	visit_1_arm_1					
+1109	visit_2_arm_1		62			7.5
+1109	visit_3_arm_1		62			7
+1109	visit_4_arm_1		64	110	61	6.5
+1109	cm_arm_1					
+1109	cm_arm_1					
+1109	cm_arm_1					
+1109	cm_arm_1					
+1109	mh_arm_1					
+1110	enrollment_arm_1					
+1110	visit_0_arm_1	160	50			8.5
+1110	visit_1_arm_1		50			8.2
+1110	visit_2_arm_1		50			7.8
+1110	visit_3_arm_1					9.6
+1110	visit_4_arm_1		50			10.4
+1110	cm_arm_1					
+1110	cm_arm_1					
+1110	cm_arm_1					
+1110	cm_arm_1					
+1110	cm_arm_1					
+1110	cm_arm_1					
+1110	cm_arm_1					
+1110	mh_arm_1					
+1111	enrollment_arm_1					
+1111	visit_0_arm_1	152	64	136	84	6.7
+1111	visit_1_arm_1		64	144	71	6.7
+1111	visit_2_arm_1		63	138	87	6.2
+1111	visit_3_arm_1		64			
+1111	visit_4_arm_1			124	75	6.8
+1111	cm_arm_1					
+1111	cm_arm_1					
+1111	cm_arm_1					
+1111	cm_arm_1					
+1111	cm_arm_1					
+1111	cm_arm_1					
+1111	cm_arm_1					
+1111	cm_arm_1					
+1111	mh_arm_1					
+1111	mh_arm_1					
+1111	mh_arm_1					
+1112	enrollment_arm_1					
+1112	visit_0_arm_1	167	64	123	84	10.3
+1112	visit_1_arm_1		64	136	85	7
+1112	visit_2_arm_1					
+1112	visit_3_arm_1					
+1112	visit_4_arm_1					
+1112	cm_arm_1					
+1112	cm_arm_1					
+1112	cm_arm_1					
+1112	cm_arm_1					
+1112	mh_arm_1					
+1113	enrollment_arm_1					
+1113	visit_0_arm_1	168	73			12.1
+1113	visit_1_arm_1					
+1113	visit_2_arm_1					
+1113	visit_3_arm_1		73			7.2
+1113	visit_4_arm_1					
+1113	cm_arm_1					
+1113	cm_arm_1					
+1113	cm_arm_1					
+1113	cm_arm_1					
+1113	cm_arm_1					
+1113	cm_arm_1					
+1113	cm_arm_1					
+1113	mh_arm_1					
+1114	enrollment_arm_1					
+1114	visit_0_arm_1	161	52			
+1114	visit_1_arm_1		52			5.3
+1114	visit_2_arm_1		57	110	75	5.5
+1114	visit_3_arm_1					
+1114	visit_4_arm_1		57	110	75	5.3
+1114	cm_arm_1					
+1114	cm_arm_1					
+1114	mh_arm_1					
+1115	enrollment_arm_1					
+1115	visit_0_arm_1	165	65	114	75	7.4
+1115	visit_1_arm_1		65	110	72	6.7
+1115	visit_2_arm_1					
+1115	visit_3_arm_1		65	119	76	6.8
+1115	visit_4_arm_1					
+1115	cm_arm_1					
+1115	cm_arm_1					
+1115	cm_arm_1					
+1115	cm_arm_1					
+1115	mh_arm_1					
+1116	enrollment_arm_1					
+1116	visit_0_arm_1	163	57			9.5
+1116	visit_1_arm_1		57			8.7
+1116	visit_2_arm_1		57			8.8
+1116	visit_3_arm_1		57	143	78	8.9
+1116	visit_4_arm_1		57	142	77	8.5
+1116	cm_arm_1					
+1116	cm_arm_1					
+1116	cm_arm_1					
+1116	mh_arm_1					
+1117	enrollment_arm_1					
+1117	visit_0_arm_1	173	70	104	64	8.2
+1117	visit_1_arm_1		70	120	80	8.2
+1117	visit_2_arm_1		70			7.7
+1117	visit_3_arm_1			120	80	7.5
+1117	visit_4_arm_1		70	103	63	7.8
+1117	cm_arm_1					
+1117	cm_arm_1					
+1117	cm_arm_1					
+1117	cm_arm_1					
+1117	cm_arm_1					
+1117	cm_arm_1					
+1117	mh_arm_1					
+1118	enrollment_arm_1					
+1118	visit_0_arm_1	165	73	132	75	7.6
+1118	visit_1_arm_1					
+1118	visit_2_arm_1		72	119	63	7.2
+1118	visit_3_arm_1					
+1118	visit_4_arm_1		71			7.1
+1118	cm_arm_1					
+1118	cm_arm_1					
+1118	cm_arm_1					
+1118	mh_arm_1					
+1118	mh_arm_1					
+1119	enrollment_arm_1					
+1119	visit_0_arm_1	181	90			9
+1119	visit_1_arm_1					
+1119	visit_2_arm_1		90			8.9
+1119	visit_3_arm_1					
+1119	visit_4_arm_1					
+1119	cm_arm_1					
+1119	cm_arm_1					
+1119	mh_arm_1					
+1120	enrollment_arm_1					
+1120	visit_0_arm_1	158	50	121	65	7.3
+1120	visit_1_arm_1		50	115	74	8
+1120	visit_2_arm_1		54	120	69	6.7
+1120	visit_3_arm_1		54			6
+1120	visit_4_arm_1		50	140	73	
+1120	cm_arm_1					
+1120	cm_arm_1					
+1120	cm_arm_1					
+1120	cm_arm_1					
+1120	mh_arm_1					
+1120	mh_arm_1					
+1120	mh_arm_1					
+1120	mh_arm_1					
+1121	enrollment_arm_1					
+1121	visit_0_arm_1	162.9	67	118	71	6.6
+1121	visit_1_arm_1		67	98	61	6.5
+1121	visit_2_arm_1					
+1121	visit_3_arm_1		67			6.5
+1121	visit_4_arm_1					
+1121	cm_arm_1					
+1121	mh_arm_1					
+1122	enrollment_arm_1					
+1122	visit_0_arm_1	176	70	124	72	6.2
+1122	visit_1_arm_1		70			6.7
+1122	visit_2_arm_1		70	115	71	6.6
+1122	visit_3_arm_1		72	112	71	7.2
+1122	visit_4_arm_1		70			6.8
+1122	cm_arm_1					
+1122	cm_arm_1					
+1122	cm_arm_1					
+1122	cm_arm_1					
+1122	cm_arm_1					
+1122	mh_arm_1					
+1123	enrollment_arm_1					
+1123	visit_0_arm_1	155	57			6.9
+1123	visit_1_arm_1		57	132	66	6.9
+1123	visit_2_arm_1					
+1123	visit_3_arm_1		57	134	71	6.7
+1123	visit_4_arm_1		57	119	67	6.8
+1123	cm_arm_1					
+1123	cm_arm_1					
+1123	cm_arm_1					
+1123	mh_arm_1					
+1123	mh_arm_1					
+1124	enrollment_arm_1					
+1124	visit_0_arm_1	178	86	120	85	7.5
+1124	visit_1_arm_1		85	123	84	
+1124	visit_2_arm_1					
+1124	visit_3_arm_1		85	127	85	5.8
+1124	visit_4_arm_1					
+1124	cm_arm_1					
+1124	mh_arm_1					
+1125	enrollment_arm_1					
+1125	visit_0_arm_1	170	75	138	68	6.7
+1125	visit_1_arm_1					
+1125	visit_2_arm_1		75			6.5
+1125	visit_3_arm_1		75			5.8
+1125	visit_4_arm_1		75			
+1125	cm_arm_1					
+1125	cm_arm_1					
+1125	cm_arm_1					
+1125	cm_arm_1					
+1125	cm_arm_1					
+1125	mh_arm_1					
+1125	mh_arm_1					
+1126	enrollment_arm_1					
+1126	visit_0_arm_1	165	51	110	62	5
+1126	visit_1_arm_1					
+1126	visit_2_arm_1					
+1126	visit_3_arm_1					
+1126	visit_4_arm_1					
+1126	cm_arm_1					
+1126	cm_arm_1					
+1126	mh_arm_1					
+1127	enrollment_arm_1					
+1127	visit_0_arm_1	153	49	117	62	7.3
+1127	visit_1_arm_1					
+1127	visit_2_arm_1		49	96	62	7.4
+1127	visit_3_arm_1		49			6.5
+1127	visit_4_arm_1					
+1127	cm_arm_1					
+1127	cm_arm_1					
+1127	cm_arm_1					
+1127	cm_arm_1					
+1127	mh_arm_1					
+1129	enrollment_arm_1					
+1129	visit_0_arm_1	166	83.7	114	74	6.3
+1129	visit_1_arm_1					
+1129	visit_2_arm_1					
+1129	visit_3_arm_1					
+1129	visit_4_arm_1					
+1129	cm_arm_1					
+1129	cm_arm_1					
+1129	cm_arm_1					
+1129	cm_arm_1					
+1129	cm_arm_1					
+1129	cm_arm_1					
+1129	cm_arm_1					
+1129	mh_arm_1					
+1130	enrollment_arm_1					
+1130	visit_0_arm_1	170	71.5	131	81	6.9
+1130	visit_1_arm_1		72	149	90	7.2
+1130	visit_2_arm_1		72	139	84	8.7
+1130	visit_3_arm_1		75	134	89	8.3
+1130	visit_4_arm_1		74	135	81	7.7
+1130	cm_arm_1					
+1130	cm_arm_1					
+1130	cm_arm_1					
+1130	cm_arm_1					
+1130	cm_arm_1					
+1130	cm_arm_1					
+1130	cm_arm_1					
+1130	cm_arm_1					
+1130	cm_arm_1					
+1130	mh_arm_1					
+1130	mh_arm_1					
+1133	enrollment_arm_1					
+1133	visit_0_arm_1	150	54	126	69	9.5
+1133	visit_1_arm_1		54			10.6
+1133	visit_2_arm_1		52.5	132	80	7.3
+1133	visit_3_arm_1		54	136	71	7.6
+1133	visit_4_arm_1		54	129	71	8.1
+1133	cm_arm_1					
+1133	cm_arm_1					
+1133	cm_arm_1					
+1133	cm_arm_1					
+1133	cm_arm_1					
+1133	cm_arm_1					
+1133	mh_arm_1					
+1133	mh_arm_1					
+1134	enrollment_arm_1					
+1134	visit_0_arm_1	150	45	123	70	7.7
+1134	visit_1_arm_1		45			7.6
+1134	visit_2_arm_1		40.9			8
+1134	visit_3_arm_1		42			7
+1134	visit_4_arm_1					
+1134	cm_arm_1					
+1134	cm_arm_1					
+1134	cm_arm_1					
+1134	cm_arm_1					
+1134	mh_arm_1					
+1134	mh_arm_1					
+1134	mh_arm_1					
+1135	enrollment_arm_1					
+1135	visit_0_arm_1	153	58			7.4
+1135	visit_1_arm_1		58	118	69	8.4
+1135	visit_2_arm_1		58			7.5
+1135	visit_3_arm_1		58	103	66	8.1
+1135	visit_4_arm_1		58			7.5
+1135	cm_arm_1					
+1135	cm_arm_1					
+1135	cm_arm_1					
+1135	cm_arm_1					
+1135	cm_arm_1					
+1135	mh_arm_1					
+1135	mh_arm_1					
+1136	enrollment_arm_1					
+1136	visit_0_arm_1	181	82	130	90	6.8
+1136	visit_1_arm_1					
+1136	visit_2_arm_1					
+1136	visit_3_arm_1					
+1136	visit_4_arm_1					
+1136	cm_arm_1					
+1136	cm_arm_1					
+1136	cm_arm_1					
+1136	mh_arm_1					
+1137	enrollment_arm_1					
+1137	visit_0_arm_1	165	55	150	91	7.1
+1137	visit_1_arm_1		55	120	79	7.1
+1137	visit_2_arm_1		55	126	79	8.1
+1137	visit_3_arm_1		55	139	85	6.4
+1137	visit_4_arm_1		54			
+1137	cm_arm_1					
+1137	cm_arm_1					
+1137	cm_arm_1					
+1137	mh_arm_1					
+1138	enrollment_arm_1					
+1138	visit_0_arm_1	162	59	118	74	7.2
+1138	visit_1_arm_1		58			7.1
+1138	visit_2_arm_1		58	128	78	7.4
+1138	visit_3_arm_1		58	129	72	7.4
+1138	visit_4_arm_1		58			7.1
+1138	cm_arm_1					
+1138	cm_arm_1					
+1138	cm_arm_1					
+1138	mh_arm_1					
+1139	enrollment_arm_1					
+1139	visit_0_arm_1	160	60	109	68	8.2
+1139	visit_1_arm_1		61.5	121	71	8.3
+1139	visit_2_arm_1		65			8.2
+1139	visit_3_arm_1					
+1139	visit_4_arm_1					
+1139	cm_arm_1					
+1139	cm_arm_1					
+1139	cm_arm_1					
+1139	cm_arm_1					
+1139	cm_arm_1					
+1139	mh_arm_1					
+1139	mh_arm_1					
+1141	enrollment_arm_1					
+1141	visit_0_arm_1	151	55	85	54	7.2
+1141	visit_1_arm_1					
+1141	visit_2_arm_1		53	92	54	7.4
+1141	visit_3_arm_1					
+1141	visit_4_arm_1		52			6.4
+1141	cm_arm_1					
+1141	cm_arm_1					
+1141	mh_arm_1					
+1142	enrollment_arm_1					
+1142	visit_0_arm_1	176	80	125	94	7.4
+1142	visit_1_arm_1		81	130	93	8.1
+1142	visit_2_arm_1		80			8.5
+1142	visit_3_arm_1		80			8.2
+1142	visit_4_arm_1		80	128	89	8.2
+1142	cm_arm_1					
+1142	cm_arm_1					
+1142	cm_arm_1					
+1142	cm_arm_1					
+1142	cm_arm_1					
+1142	mh_arm_1					
+1148	enrollment_arm_1					
+1148	visit_0_arm_1	163	56	133	83	8.4
+1148	visit_1_arm_1		59	125	68	7.3
+1148	visit_2_arm_1		58	97	58	7.2
+1148	visit_3_arm_1					
+1148	visit_4_arm_1		58	111	67	6.9
+1148	cm_arm_1					
+1148	cm_arm_1					
+1148	cm_arm_1					
+1148	mh_arm_1					
+1148	mh_arm_1					
+1149	enrollment_arm_1					
+1149	visit_0_arm_1	162	56	123	80	6.9
+1149	visit_1_arm_1					
+1149	visit_2_arm_1		56	119	77	7.2
+1149	visit_3_arm_1		56	107	64	7.1
+1149	visit_4_arm_1		56	120	80	8.2
+1149	cm_arm_1					
+1149	cm_arm_1					
+1149	cm_arm_1					
+1149	cm_arm_1					
+1149	cm_arm_1					
+1149	cm_arm_1					
+1149	cm_arm_1					
+1149	cm_arm_1					
+1149	cm_arm_1					
+1149	cm_arm_1					
+1149	cm_arm_1					
+1149	mh_arm_1					
+1149	mh_arm_1					
+1149	mh_arm_1					
+1149	mh_arm_1					
+1150	enrollment_arm_1					
+1150	visit_0_arm_1	171	69.5	107	60	6.6
+1150	visit_1_arm_1					
+1150	visit_2_arm_1		68	123	76	6.7
+1150	visit_3_arm_1					
+1150	visit_4_arm_1		69	107	60	6.6
+1150	cm_arm_1					
+1150	cm_arm_1					
+1150	cm_arm_1					
+1150	cm_arm_1					
+1150	mh_arm_1					
+1150	mh_arm_1					
+1151	enrollment_arm_1					
+1151	visit_0_arm_1	173	77			9.1
+1151	visit_1_arm_1			84	79	8.3
+1151	visit_2_arm_1		77	142	79	7.9
+1151	visit_3_arm_1			115	80	7.7
+1151	visit_4_arm_1		77	113	66	7.4
+1151	cm_arm_1					
+1151	cm_arm_1					
+1151	cm_arm_1					
+1151	cm_arm_1					
+1151	mh_arm_1					
+1152	enrollment_arm_1					
+1152	visit_0_arm_1	160	55			7.4
+1152	visit_1_arm_1		55	126	80	7.3
+1152	visit_2_arm_1					
+1152	visit_3_arm_1					7.1
+1152	visit_4_arm_1		55			
+1152	cm_arm_1					
+1152	cm_arm_1					
+1152	cm_arm_1					
+1152	mh_arm_1					
+1153	enrollment_arm_1					
+1153	visit_0_arm_1	156	54			7.8
+1153	visit_1_arm_1		54			6.6
+1153	visit_2_arm_1		54	109	63	
+1153	visit_3_arm_1		54			6.5
+1153	visit_4_arm_1			131	75	6.4
+1153	cm_arm_1					
+1153	cm_arm_1					
+1153	cm_arm_1					
+1153	cm_arm_1					
+1153	cm_arm_1					
+1153	cm_arm_1					
+1153	mh_arm_1					
+1153	mh_arm_1					
+1154	enrollment_arm_1					
+1154	visit_0_arm_1	161.4	53	105	63	7.4
+1154	visit_1_arm_1		53			6.7
+1154	visit_2_arm_1		53	103	61	6.8
+1154	visit_3_arm_1		53			7.6
+1154	visit_4_arm_1		53			7.3
+1154	cm_arm_1					
+1154	cm_arm_1					
+1154	cm_arm_1					
+1154	cm_arm_1					
+1154	cm_arm_1					
+1154	mh_arm_1					
+1154	mh_arm_1					
+1154	mh_arm_1					
+1155	enrollment_arm_1					
+1155	visit_0_arm_1	161	68	99	72	6.7
+1155	visit_1_arm_1		69	117	84	6.8
+1155	visit_2_arm_1		68			7.4
+1155	visit_3_arm_1		68	132	86	6.8
+1155	visit_4_arm_1		67	116	84	6.5
+1155	cm_arm_1					
+1155	cm_arm_1					
+1155	cm_arm_1					
+1155	cm_arm_1					
+1155	cm_arm_1					
+1155	mh_arm_1					
+1155	mh_arm_1					
+1155	mh_arm_1					
+1166	enrollment_arm_1					
+1166	visit_0_arm_1	171	75	110	82	7
+1166	visit_1_arm_1					
+1166	visit_2_arm_1		71	126	77	6.9
+1166	visit_3_arm_1					
+1166	visit_4_arm_1		71			6.8
+1166	cm_arm_1					
+1166	cm_arm_1					
+1166	cm_arm_1					
+1166	mh_arm_1					
+1167	enrollment_arm_1					
+1167	visit_0_arm_1	160	67	111	58	10.1
+1167	visit_1_arm_1		63	89	44	8.3
+1167	visit_2_arm_1		65			7.8
+1167	visit_3_arm_1		67			8.4
+1167	visit_4_arm_1					
+1167	cm_arm_1					
+1167	cm_arm_1					
+1167	cm_arm_1					
+1167	cm_arm_1					
+1167	cm_arm_1					
+1167	cm_arm_1					
+1167	mh_arm_1					
+1167	mh_arm_1					
+1168	enrollment_arm_1					
+1168	visit_0_arm_1	158	62	143	79	6.3
+1168	visit_1_arm_1					
+1168	visit_2_arm_1		65	153	81	6.2
+1168	visit_3_arm_1		62	111	66	7.2
+1168	visit_4_arm_1		62	113	58	7.1
+1168	cm_arm_1					
+1168	cm_arm_1					
+1168	cm_arm_1					
+1168	cm_arm_1					
+1168	cm_arm_1					
+1168	mh_arm_1					
+1168	mh_arm_1					
+1169	enrollment_arm_1					
+1169	visit_0_arm_1	164	59	123	70	7.2
+1169	visit_1_arm_1		58.5	126	68	8
+1169	visit_2_arm_1		58	143	76	6.9
+1169	visit_3_arm_1		56	129	70	7.4
+1169	visit_4_arm_1		57	117	75	6.7
+1169	cm_arm_1					
+1169	cm_arm_1					
+1169	cm_arm_1					
+1169	cm_arm_1					
+1169	cm_arm_1					
+1169	mh_arm_1					
+1170	enrollment_arm_1					
+1170	visit_0_arm_1	154	47	141	76	6.8
+1170	visit_1_arm_1		47	125	75	6.3
+1170	visit_2_arm_1					
+1170	visit_3_arm_1		47	128	70	6.9
+1170	visit_4_arm_1					
+1170	cm_arm_1					
+1170	cm_arm_1					
+1170	cm_arm_1					
+1170	cm_arm_1					
+1170	mh_arm_1					
+1171	enrollment_arm_1					
+1171	visit_0_arm_1	162	88	120	76	9.5
+1171	visit_1_arm_1					
+1171	visit_2_arm_1					
+1171	visit_3_arm_1		86	132	78	10.6
+1171	visit_4_arm_1		85.8	128	78	
+1171	cm_arm_1					
+1171	cm_arm_1					
+1171	cm_arm_1					
+1171	cm_arm_1					
+1171	cm_arm_1					
+1171	cm_arm_1					
+1171	mh_arm_1					
+1171	mh_arm_1					
+1172	enrollment_arm_1					
+1172	visit_0_arm_1	154	47			7.1
+1172	visit_1_arm_1					
+1172	visit_2_arm_1					
+1172	visit_3_arm_1					
+1172	visit_4_arm_1					
+1172	cm_arm_1					
+1172	cm_arm_1					
+1172	cm_arm_1					
+1173	enrollment_arm_1					
+1173	visit_0_arm_1	147	56.6	148	85	7
+1173	visit_1_arm_1		53.5	117	74	6.5
+1173	visit_2_arm_1		54	133	84	6.5
+1173	visit_3_arm_1		53.5	159	93	6.6
+1173	visit_4_arm_1					
+1173	cm_arm_1					
+1173	cm_arm_1					
+1173	cm_arm_1					
+1173	cm_arm_1					
+1173	cm_arm_1					
+1173	mh_arm_1					
+1173	mh_arm_1					
+1174	enrollment_arm_1					
+1174	visit_0_arm_1	151	73.1			5.6
+1174	visit_1_arm_1					
+1174	visit_2_arm_1					
+1174	visit_3_arm_1					
+1174	visit_4_arm_1					
+1174	cm_arm_1					
+1174	mh_arm_1					
+1175	enrollment_arm_1					
+1175	visit_0_arm_1	153	60	131	69	8.1
+1175	visit_1_arm_1		60	115	67	
+1175	visit_2_arm_1		60			
+1175	visit_3_arm_1		60	141	66	
+1175	visit_4_arm_1		60	121	68	
+1175	cm_arm_1					
+1175	cm_arm_1					
+1175	cm_arm_1					
+1175	cm_arm_1					
+1175	cm_arm_1					
+1175	cm_arm_1					
+1175	cm_arm_1					
+1175	cm_arm_1					
+1175	mh_arm_1					
+1176	enrollment_arm_1					
+1176	visit_0_arm_1	153	50			8.5
+1176	visit_1_arm_1		50			7.3
+1176	visit_2_arm_1		50			7.3
+1176	visit_3_arm_1		50			7.4
+1176	visit_4_arm_1		50			7.6
+1176	cm_arm_1					
+1176	cm_arm_1					
+1176	cm_arm_1					
+1176	mh_arm_1					
+1180	enrollment_arm_1					
+1180	visit_0_arm_1	170	72	123	78	7
+1180	visit_1_arm_1					
+1180	visit_2_arm_1		72			6.2
+1180	visit_3_arm_1					
+1180	visit_4_arm_1		72			6.6
+1180	cm_arm_1					
+1180	cm_arm_1					
+1180	cm_arm_1					
+1180	mh_arm_1					
+1181	enrollment_arm_1					
+1181	visit_0_arm_1	159	55	89	50	7
+1181	visit_1_arm_1		55			
+1181	visit_2_arm_1		55	153	79	6.2
+1181	visit_3_arm_1		55			
+1181	visit_4_arm_1		55			5.3
+1181	cm_arm_1					
+1181	cm_arm_1					
+1181	cm_arm_1					
+1181	cm_arm_1					
+1181	mh_arm_1					
+1186	enrollment_arm_1					
+1186	visit_0_arm_1	181	77	123	92	7.2
+1186	visit_1_arm_1					
+1186	visit_2_arm_1		77	131	89	7.8
+1186	visit_3_arm_1		77	140	98	7.4
+1186	visit_4_arm_1		77	143	96	7.6
+1186	cm_arm_1					
+1186	cm_arm_1					
+1186	cm_arm_1					
+1186	cm_arm_1					
+1186	mh_arm_1					
+1186	mh_arm_1					
+1187	enrollment_arm_1					
+1187	visit_0_arm_1	173	76	100	74	6.7
+1187	visit_1_arm_1		74	125	75	6
+1187	visit_2_arm_1					
+1187	visit_3_arm_1		74	119	75	6.4
+1187	visit_4_arm_1					
+1187	cm_arm_1					
+1187	cm_arm_1					
+1187	cm_arm_1					
+1187	mh_arm_1					
+1188	enrollment_arm_1					
+1188	visit_0_arm_1	150	52	116	76	6.7
+1188	visit_1_arm_1		52	88	56	7.3
+1188	visit_2_arm_1		52			
+1188	visit_3_arm_1		52			6.8
+1188	visit_4_arm_1		52			7.2
+1188	cm_arm_1					
+1188	cm_arm_1					
+1188	cm_arm_1					
+1188	cm_arm_1					
+1188	cm_arm_1					
+1188	mh_arm_1					
+1189	enrollment_arm_1					
+1189	visit_0_arm_1	155	48			8.1
+1189	visit_1_arm_1		48.4			8.4
+1189	visit_2_arm_1		48.4			7.5
+1189	visit_3_arm_1		48.8			8.1
+1189	visit_4_arm_1		48.8			8.6
+1189	cm_arm_1					
+1189	cm_arm_1					
+1189	cm_arm_1					
+1189	cm_arm_1					
+1189	cm_arm_1					
+1189	mh_arm_1					
+1189	mh_arm_1					
+1190	enrollment_arm_1					
+1190	visit_0_arm_1	154.5	60			7.3
+1190	visit_1_arm_1		58.5	99	65	7.5
+1190	visit_2_arm_1		57.8			8.6
+1190	visit_3_arm_1		56.6			
+1190	visit_4_arm_1		56.6			8.1
+1190	cm_arm_1					
+1190	cm_arm_1					
+1190	cm_arm_1					
+1190	cm_arm_1					
+1190	cm_arm_1					
+1190	mh_arm_1					
+1191	enrollment_arm_1					
+1191	visit_0_arm_1	152	51			
+1191	visit_1_arm_1		51			5.8
+1191	visit_2_arm_1		51			6
+1191	visit_3_arm_1					
+1191	visit_4_arm_1					
+1191	cm_arm_1					
+1191	cm_arm_1					
+1191	cm_arm_1					
+1191	cm_arm_1					
+1191	mh_arm_1					
+1191	mh_arm_1					
+1191	mh_arm_1					
+1192	enrollment_arm_1					
+1192	visit_0_arm_1	159	70	119	76	8.1
+1192	visit_1_arm_1		70			6.9
+1192	visit_2_arm_1					
+1192	visit_3_arm_1					7
+1192	visit_4_arm_1			134	89	
+1192	cm_arm_1					
+1192	cm_arm_1					
+1192	cm_arm_1					
+1192	mh_arm_1					
+1194	enrollment_arm_1					
+1195	enrollment_arm_1					
+1195	visit_0_arm_1	165	86	128	76	9.2
+1195	visit_1_arm_1		80	117	80	9.6
+1195	visit_2_arm_1		80	145	70	8.3
+1195	visit_3_arm_1		80	142	68	8.8
+1195	visit_4_arm_1		84	132	78	8.6
+1195	cm_arm_1					
+1195	cm_arm_1					
+1195	cm_arm_1					
+1195	cm_arm_1					
+1195	cm_arm_1					
+1195	mh_arm_1					
+1195	mh_arm_1					
+1201	enrollment_arm_1					
+1201	visit_0_arm_1	150	50	138	67	8.3
+1201	visit_1_arm_1		50			8
+1201	visit_2_arm_1		50	123	56	8.5
+1201	visit_3_arm_1		50	119	59	8.2
+1201	visit_4_arm_1		50	120	55	7
+1201	cm_arm_1					
+1201	cm_arm_1					
+1201	cm_arm_1					
+1201	cm_arm_1					
+1201	cm_arm_1					
+1201	cm_arm_1					
+1201	mh_arm_1					
+1201	mh_arm_1					
+1202	enrollment_arm_1					
+1202	visit_0_arm_1	162	56	128	77	8
+1202	visit_1_arm_1		56	100	74	6.8
+1202	visit_2_arm_1					
+1202	visit_3_arm_1					
+1202	visit_4_arm_1					
+1202	mh_arm_1					
+1202	mh_arm_1					
+1213	enrollment_arm_1					
+1213	visit_0_arm_1	172	65	116	66	5.2
+1213	visit_1_arm_1		57	109	61	5
+1213	visit_2_arm_1					
+1213	visit_3_arm_1					
+1213	visit_4_arm_1					
+1213	cm_arm_1					
+1213	cm_arm_1					
+1213	mh_arm_1					
+1476	enrollment_arm_1					
+1476	visit_0_arm_1	174	75	119	81	12.3
+1476	visit_1_arm_1		75	112	70	
+1476	visit_2_arm_1					
+1476	visit_3_arm_1					
+1476	visit_4_arm_1					
+1476	cm_arm_1					
+1476	mh_arm_1					
+1533	enrollment_arm_1					
+1533	visit_0_arm_1	160	63.5			7.7
+1533	visit_1_arm_1		63.5			8.2
+1533	visit_2_arm_1					
+1533	visit_3_arm_1		63.5			7.5
+1533	visit_4_arm_1		63.5			8.3
+1655	enrollment_arm_1					
+1655	visit_0_arm_1	159	60	116	62	6.5
+1655	visit_1_arm_1		64	140	76	6.3
+1655	visit_2_arm_1		61			6.7
+1655	visit_3_arm_1			113	67	6.7
+1655	visit_4_arm_1					
+1655	cm_arm_1					
+1655	cm_arm_1					
+1655	cm_arm_1					
+1655	mh_arm_1					
+1659	enrollment_arm_1					
+1659	visit_0_arm_1	170.4	66.7			
+1659	visit_1_arm_1					
+1659	visit_2_arm_1		73			8.1
+1659	visit_3_arm_1					
+1659	visit_4_arm_1		66			6.8
+1659	cm_arm_1					
+1659	cm_arm_1					
+1659	cm_arm_1					
+1659	cm_arm_1					
+1659	mh_arm_1					
+1669	enrollment_arm_1					
+1669	visit_0_arm_1	171	103			7.4
+1669	visit_1_arm_1		103			7.3
+1669	visit_2_arm_1		104	149	102	7.5
+1669	visit_3_arm_1		102	125	85	
+1669	visit_4_arm_1			165	112	7.3
+1669	cm_arm_1					
+1669	cm_arm_1					
+1669	cm_arm_1					
+1669	cm_arm_1					
+1669	cm_arm_1					
+1669	cm_arm_1					
+1669	mh_arm_1					
+1669	mh_arm_1					
+1678	enrollment_arm_1					
+1678	visit_0_arm_1	164	55	109	66	7
+1678	visit_1_arm_1		55	103	64	8
+1678	visit_2_arm_1		55	119	67	7.1
+1678	visit_3_arm_1		55	99	70	7.6
+1678	visit_4_arm_1		56	100	63	7.8
+1678	cm_arm_1					
+1678	cm_arm_1					
+1678	cm_arm_1					
+1678	cm_arm_1					
+1678	mh_arm_1					
+1678	mh_arm_1					
+1684	enrollment_arm_1					
+1684	visit_0_arm_1	164	58	99	52	4.8
+1684	visit_1_arm_1		58			
+1684	visit_2_arm_1					
+1684	visit_3_arm_1		57	99	52	
+1684	visit_4_arm_1					
+1684	mh_arm_1					
+1741	enrollment_arm_1					
+1741	visit_0_arm_1	171	73	125	83	7
+1741	visit_1_arm_1		75	130	82	7.4
+1741	visit_2_arm_1		71	119	84	6.9
+1741	visit_3_arm_1		70	112	80	6.5
+1741	visit_4_arm_1		71	112	80	6.7
+1741	cm_arm_1					
+1741	cm_arm_1					
+1741	cm_arm_1					
+1741	cm_arm_1					
+1741	cm_arm_1					
+1741	cm_arm_1					
+1741	mh_arm_1					
+1741	mh_arm_1					
+1741	mh_arm_1					
+1744	enrollment_arm_1					
+1744	visit_0_arm_1	160	56	109	61	10.2
+1744	visit_1_arm_1					
+1744	visit_2_arm_1		56			11.8
+1744	visit_3_arm_1					9.4
+1744	visit_4_arm_1					
+1744	cm_arm_1					
+1744	cm_arm_1					
+1744	cm_arm_1					
+1744	cm_arm_1					
+1744	mh_arm_1					
+1787	enrollment_arm_1					
+1787	visit_0_arm_1	157	57.8	128	88	10.4
+1787	visit_1_arm_1		55	117	79	7.5
+1787	visit_2_arm_1		55	119	84	6.8
+1787	visit_3_arm_1		58	118	84	6.8
+1787	visit_4_arm_1		58	124	82	6.8
+1787	cm_arm_1					
+1787	cm_arm_1					
+1787	cm_arm_1					
+1787	cm_arm_1					
+1787	cm_arm_1					
+1787	cm_arm_1					
+1787	cm_arm_1					
+1787	mh_arm_1					
+1820	enrollment_arm_1					
+1820	visit_0_arm_1	162.5	60	141	74	8
+1820	visit_1_arm_1		60			8.4
+1820	visit_2_arm_1		60	121	77	6.8
+1820	visit_3_arm_1					6.4
+1820	visit_4_arm_1					8.1
+1820	cm_arm_1					
+1820	cm_arm_1					
+1820	cm_arm_1					
+1820	cm_arm_1					
+1820	cm_arm_1					
+1820	cm_arm_1					
+1820	cm_arm_1					
+1820	cm_arm_1					
+1820	mh_arm_1					
+1820	mh_arm_1					
+1820	mh_arm_1					
+1826	enrollment_arm_1					
+1826	visit_0_arm_1	174	64.2			
+1826	visit_1_arm_1		64.2			7.7
+1826	visit_2_arm_1					6.9
+1826	visit_3_arm_1					
+1826	visit_4_arm_1		64.2			7.3
+1826	cm_arm_1					
+1826	cm_arm_1					
+1826	cm_arm_1					
+1826	cm_arm_1					
+1826	cm_arm_1					
+1826	cm_arm_1					
+1826	cm_arm_1					
+1826	cm_arm_1					
+1826	cm_arm_1					
+1826	cm_arm_1					
+1826	cm_arm_1					
+1826	mh_arm_1					
+1826	mh_arm_1					
+1826	mh_arm_1					
+1833	enrollment_arm_1					
+1833	visit_0_arm_1	168	71	144	72	8.3
+1833	visit_1_arm_1		71	144	79	7.9
+1833	visit_2_arm_1					
+1833	visit_3_arm_1			131	69	10.5
+1833	visit_4_arm_1		68			8.7
+1833	cm_arm_1					
+1833	cm_arm_1					
+1833	cm_arm_1					
+1833	cm_arm_1					
+1833	cm_arm_1					
+1833	cm_arm_1					
+1833	cm_arm_1					
+1833	mh_arm_1					
+1833	mh_arm_1					
+1833	mh_arm_1					
+1834	enrollment_arm_1					
+1834	visit_0_arm_1	157	51	135	90	7.1
+1834	visit_1_arm_1		51	167	95	7.1
+1834	visit_2_arm_1		51			7.4
+1834	visit_3_arm_1					
+1834	visit_4_arm_1		51			7.3
+1834	cm_arm_1					
+1834	cm_arm_1					
+1834	cm_arm_1					
+1834	cm_arm_1					
+1834	cm_arm_1					
+1834	cm_arm_1					
+1834	mh_arm_1					
+1834	mh_arm_1					
+1837	enrollment_arm_1					
+1837	visit_0_arm_1	160	53			7.7
+1837	visit_1_arm_1		53			8.6
+1837	visit_2_arm_1		53			8.7
+1837	visit_3_arm_1		50			7
+1837	visit_4_arm_1					
+1837	cm_arm_1					
+1837	cm_arm_1					
+1837	cm_arm_1					
+1837	mh_arm_1					
+1841	enrollment_arm_1					
+1841	visit_0_arm_1	145	52			7
+1841	visit_1_arm_1		52			6.5
+1841	visit_2_arm_1					
+1841	visit_3_arm_1			110	64	6.6
+1841	visit_4_arm_1		52	131	68	6.6
+1841	cm_arm_1					
+1841	cm_arm_1					
+1841	cm_arm_1					
+1841	cm_arm_1					
+1841	cm_arm_1					
+1841	cm_arm_1					
+1841	cm_arm_1					
+1841	mh_arm_1					
+1841	mh_arm_1					
+1846	enrollment_arm_1					
+1846	visit_0_arm_1	157	61			10.1
+1846	visit_1_arm_1		60	107	58	8.6
+1846	visit_2_arm_1		55	111	67	8.6
+1846	visit_3_arm_1		59	124	66	8.1
+1846	visit_4_arm_1		58	124	66	8.8
+1846	cm_arm_1					
+1846	cm_arm_1					
+1846	cm_arm_1					
+1846	mh_arm_1					
+1846	mh_arm_1					
+1846	mh_arm_1					
+1858	enrollment_arm_1					
+1858	visit_0_arm_1	153	69.3	111	69	
+1858	visit_1_arm_1		69.3			
+1858	visit_2_arm_1		69.3			7.2
+1858	visit_3_arm_1		67	137	89	
+1858	visit_4_arm_1					
+1858	cm_arm_1					
+1858	cm_arm_1					
+1858	mh_arm_1					
+1863	enrollment_arm_1					
+1863	visit_0_arm_1	167	78	121	77	5.4
+1863	visit_1_arm_1		77	123	82	5.8
+1863	visit_2_arm_1		79	124	74	6.1
+1863	visit_3_arm_1		79	121	74	6.4
+1863	visit_4_arm_1		79	121	74	6.6
+1863	cm_arm_1					
+1863	cm_arm_1					
+1863	cm_arm_1					
+1863	cm_arm_1					
+1863	mh_arm_1					
+1870	enrollment_arm_1					
+1870	visit_0_arm_1	150	49	107	67	5.5
+1870	visit_1_arm_1		49.95	105	58	5.6
+1870	visit_2_arm_1					
+1870	visit_3_arm_1					
+1870	visit_4_arm_1					
+1870	cm_arm_1					
+1870	mh_arm_1					
+1873	enrollment_arm_1					
+1873	visit_0_arm_1	161	85	115	77	5.5
+1873	visit_1_arm_1		89	120	80	
+1873	visit_2_arm_1					
+1873	visit_3_arm_1					
+1873	visit_4_arm_1					
+1873	cm_arm_1					
+1873	cm_arm_1					
+1879	enrollment_arm_1					
+1879	visit_0_arm_1	176	65			12.2
+1879	visit_1_arm_1		65			7.2
+1879	visit_2_arm_1		65			6.7
+1879	visit_3_arm_1		65			7.1
+1879	visit_4_arm_1					6.9
+1879	cm_arm_1					
+1879	cm_arm_1					
+1879	cm_arm_1					
+1879	cm_arm_1					
+1879	cm_arm_1					
+1879	cm_arm_1					
+1879	cm_arm_1					
+1879	cm_arm_1					
+1879	mh_arm_1					
+1883	enrollment_arm_1					
+1883	visit_0_arm_1	144	51.4			14
+1883	visit_1_arm_1		51			8.2
+1883	visit_2_arm_1		51			6.8
+1883	visit_3_arm_1		51	90	53	6.6
+1883	visit_4_arm_1			122	79	6.7
+1883	cm_arm_1					
+1883	cm_arm_1					
+1883	cm_arm_1					
+1883	mh_arm_1					
+1883	mh_arm_1					
+1884	enrollment_arm_1					
+1884	visit_0_arm_1	178	120	137	88	8.5
+1884	visit_1_arm_1		120			6.7
+1884	visit_2_arm_1		111	145	89	6.9
+1884	visit_3_arm_1		121			
+1884	visit_4_arm_1					6.2
+1884	cm_arm_1					
+1884	cm_arm_1					
+1884	cm_arm_1					
+1884	cm_arm_1					
+1884	cm_arm_1					
+1884	mh_arm_1					
+1885	enrollment_arm_1					
+1885	visit_0_arm_1	166	62			11.2
+1885	visit_1_arm_1		62	134	75	8.4
+1885	visit_2_arm_1		62	124	83	8.3
+1885	visit_3_arm_1		62			8.5
+1885	visit_4_arm_1					8.2
+1885	cm_arm_1					
+1885	cm_arm_1					
+1885	cm_arm_1					
+1885	mh_arm_1					
+1886	enrollment_arm_1					
+1886	visit_0_arm_1	172	76	116	85	
+1886	visit_1_arm_1		76			5.9
+1886	visit_2_arm_1					
+1886	visit_3_arm_1					
+1886	visit_4_arm_1					
+1886	cm_arm_1					
+1886	cm_arm_1					
+1886	cm_arm_1					
+1886	mh_arm_1					
+1886	mh_arm_1					
+1887	enrollment_arm_1					
+1887	visit_0_arm_1	155	53			7.7
+1887	visit_1_arm_1		53			7.7
+1887	visit_2_arm_1					7.4
+1887	visit_3_arm_1					
+1887	visit_4_arm_1			131	70	7.3
+1887	cm_arm_1					
+1887	cm_arm_1					
+1887	cm_arm_1					
+1887	cm_arm_1					
+1887	cm_arm_1					
+1887	mh_arm_1					
+1887	mh_arm_1					
+1888	enrollment_arm_1					
+1889	enrollment_arm_1					
+1889	visit_0_arm_1	174	75.5			9.3
+1889	visit_1_arm_1		75.5			6.8
+1889	visit_2_arm_1		75.5			6.7
+1889	visit_3_arm_1					
+1889	visit_4_arm_1		78	159	101	6.6
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	cm_arm_1					
+1889	mh_arm_1					
+1889	mh_arm_1					
+1889	mh_arm_1					
+1889	mh_arm_1					
+1890	enrollment_arm_1					
+1890	visit_0_arm_1	172	65			6.2
+1890	visit_1_arm_1					
+1890	visit_2_arm_1			131	89	6.2
+1890	visit_3_arm_1					
+1890	visit_4_arm_1		65	130	82	6.4
+1890	cm_arm_1					
+1890	cm_arm_1					
+1890	cm_arm_1					
+1890	mh_arm_1					
+1890	mh_arm_1					
+1890	mh_arm_1					
+1895	enrollment_arm_1					
+1895	visit_0_arm_1	159	62.5			
+1895	visit_1_arm_1		62.5			5.3
+1895	visit_2_arm_1					
+1895	visit_3_arm_1					
+1895	visit_4_arm_1					
+1895	mh_arm_1					
+1899	enrollment_arm_1					
+1899	visit_0_arm_1	163	81	130	74	8
+1899	visit_1_arm_1		80	124	75	7.5
+1899	visit_2_arm_1		80	124	84	7.4
+1899	visit_3_arm_1		80	152	80	7.2
+1899	visit_4_arm_1					
+1899	cm_arm_1					
+1899	cm_arm_1					
+1899	cm_arm_1					
+1899	cm_arm_1					
+1899	cm_arm_1					
+1899	cm_arm_1					
+1899	mh_arm_1					
+1899	mh_arm_1					
+1900	enrollment_arm_1					
+1900	visit_0_arm_1	159	63	126	56	8.1
+1900	visit_1_arm_1		63	129	61	8.1
+1900	visit_2_arm_1		63			8.2
+1900	visit_3_arm_1		63	125	62	7.8
+1900	visit_4_arm_1		65	109	63	8.8
+1900	cm_arm_1					
+1900	cm_arm_1					
+1900	cm_arm_1					
+1900	cm_arm_1					
+1900	cm_arm_1					
+1900	cm_arm_1					
+1900	mh_arm_1					
+1901	enrollment_arm_1					
+1901	visit_0_arm_1	159	57	134	83	7.9
+1901	visit_1_arm_1		58	119	76	8.3
+1901	visit_2_arm_1		57			7.6
+1901	visit_3_arm_1		57			8.7
+1901	visit_4_arm_1			114	71	8.3
+1901	cm_arm_1					
+1901	mh_arm_1					
+1901	mh_arm_1					
+1903	enrollment_arm_1					
+1903	visit_0_arm_1	178	75	122	68	10.8
+1903	visit_1_arm_1		74	108	70	5.7
+1903	visit_2_arm_1		74			5.8
+1903	visit_3_arm_1		78			6.3
+1903	visit_4_arm_1					7.6
+1903	cm_arm_1					
+1903	cm_arm_1					
+1903	cm_arm_1					
+1903	mh_arm_1					
+1904	enrollment_arm_1					
+1904	visit_0_arm_1	171	65.1			6.2
+1904	visit_1_arm_1					
+1904	visit_2_arm_1		65.1			5.7
+1904	visit_3_arm_1					
+1904	visit_4_arm_1					6
+1904	mh_arm_1					
+1904	mh_arm_1					
+1904	mh_arm_1					
+1904	mh_arm_1					
+1905	enrollment_arm_1					
+1905	visit_0_arm_1	168	58			11.3
+1905	visit_1_arm_1		58			7.8
+1905	visit_2_arm_1		58			6.9
+1905	visit_3_arm_1		58			6.9
+1905	visit_4_arm_1		58			6.8
+1905	cm_arm_1					
+1905	cm_arm_1					
+1905	cm_arm_1					
+1905	mh_arm_1					
+1905	mh_arm_1					
+1905	mh_arm_1					
+1906	enrollment_arm_1					
+1906	visit_0_arm_1	162	60			8.7
+1906	visit_1_arm_1		61			7.7
+1906	visit_2_arm_1		61			7.1
+1906	visit_3_arm_1					
+1906	visit_4_arm_1					6.7
+1906	cm_arm_1					
+1906	cm_arm_1					
+1906	cm_arm_1					
+1906	cm_arm_1					
+1906	cm_arm_1					
+1906	mh_arm_1					
+1906	mh_arm_1					
+1907	enrollment_arm_1					
+1907	visit_0_arm_1	157	58.7			6.8
+1907	visit_1_arm_1		59.5	115	67	6.7
+1907	visit_2_arm_1					
+1907	visit_3_arm_1					
+1907	visit_4_arm_1		59.3	115	72	7
+1907	cm_arm_1					
+1907	cm_arm_1					
+1907	cm_arm_1					
+1907	cm_arm_1					
+1907	mh_arm_1					
+1907	mh_arm_1					
+1907	mh_arm_1					
+1909	enrollment_arm_1					
+1909	visit_0_arm_1	171	73			
+1909	visit_1_arm_1		73			6.6
+1909	visit_2_arm_1		73			7.7
+1909	visit_3_arm_1					
+1909	visit_4_arm_1					7.1
+1909	cm_arm_1					
+1909	cm_arm_1					
+1909	cm_arm_1					
+1909	cm_arm_1					
+1909	mh_arm_1					
+1910	enrollment_arm_1					
+1910	visit_0_arm_1	178	82	130	93	7.5
+1910	visit_1_arm_1		82	141	99	7.9
+1910	visit_2_arm_1		82	118	78	7.9
+1910	visit_3_arm_1		82			8.7
+1910	visit_4_arm_1		82	111	69	8.9
+1910	cm_arm_1					
+1910	cm_arm_1					
+1910	cm_arm_1					
+1910	mh_arm_1					
+1910	mh_arm_1					
+1911	enrollment_arm_1					
+1911	visit_0_arm_1	172	81	159	94	7.8
+1911	visit_1_arm_1		81	120	79	6.3
+1911	visit_2_arm_1		81			7.2
+1911	visit_3_arm_1		81	111	67	7.9
+1911	visit_4_arm_1		81	105	66	7.3
+1911	cm_arm_1					
+1911	cm_arm_1					
+1911	cm_arm_1					
+1911	cm_arm_1					
+1911	cm_arm_1					
+1911	cm_arm_1					
+1911	cm_arm_1					
+1911	mh_arm_1					
+1913	enrollment_arm_1					
+1913	visit_0_arm_1	161	74.9	150	98	7.2
+1913	visit_1_arm_1					
+1913	visit_2_arm_1					
+1913	visit_3_arm_1					
+1913	visit_4_arm_1					
+1913	cm_arm_1					
+1913	cm_arm_1					
+1913	cm_arm_1					
+1913	cm_arm_1					
+1913	cm_arm_1					
+1913	mh_arm_1					
+1913	mh_arm_1					
+1914	enrollment_arm_1					
+1914	visit_0_arm_1	164.5	68			6.8
+1914	visit_1_arm_1					
+1914	visit_2_arm_1					
+1914	visit_3_arm_1					
+1914	visit_4_arm_1					
+1914	cm_arm_1					
+1914	cm_arm_1					
+1914	cm_arm_1					
+1914	cm_arm_1					
+1914	cm_arm_1					
+1914	cm_arm_1					
+1914	cm_arm_1					
+1914	cm_arm_1					
+1914	cm_arm_1					
+1914	mh_arm_1					
+1914	mh_arm_1					
+1914	mh_arm_1					
+1916	enrollment_arm_1					
+1916	visit_0_arm_1	163	74	130	64	7.8
+1916	visit_1_arm_1		74			9
+1916	visit_2_arm_1		74			7.7
+1916	visit_3_arm_1		74			8.8
+1916	visit_4_arm_1			141	55	8.3
+1916	cm_arm_1					
+1916	cm_arm_1					
+1916	cm_arm_1					
+1916	cm_arm_1					
+1916	cm_arm_1					
+1916	cm_arm_1					
+1916	mh_arm_1					
+1916	mh_arm_1					
+1919	enrollment_arm_1					
+1919	visit_0_arm_1	159	54	155	85	6.6
+1919	visit_1_arm_1		53.5	134	72	6.7
+1919	visit_2_arm_1					
+1919	visit_3_arm_1		53.5			7.3
+1919	visit_4_arm_1			139	74	7.3
+1919	cm_arm_1					
+1919	cm_arm_1					
+1919	cm_arm_1					
+1919	cm_arm_1					
+1919	cm_arm_1					
+1919	mh_arm_1					
+1919	mh_arm_1					
+1919	mh_arm_1					
+1920	enrollment_arm_1					
+1920	visit_0_arm_1	158	57	137	71	6.5
+1920	visit_1_arm_1		58.7	118	69	6.7
+1920	visit_2_arm_1		57			6.4
+1920	visit_3_arm_1					
+1920	visit_4_arm_1					6.7
+1920	cm_arm_1					
+1920	cm_arm_1					
+1920	cm_arm_1					
+1920	mh_arm_1					
+1920	mh_arm_1					
+1921	enrollment_arm_1					
+1921	visit_0_arm_1	168	59	102	75	6.6
+1921	visit_1_arm_1		58	90	70	6.5
+1921	visit_2_arm_1					
+1921	visit_3_arm_1					
+1921	visit_4_arm_1		60			7.2
+1921	cm_arm_1					
+1921	cm_arm_1					
+1921	cm_arm_1					
+1921	mh_arm_1					
+1921	mh_arm_1					
+1923	enrollment_arm_1					
+1923	visit_0_arm_1	163	57	149	75	7.2
+1923	visit_1_arm_1		55	137	64	7
+1923	visit_2_arm_1					
+1923	visit_3_arm_1		54.4	116	61	7
+1923	visit_4_arm_1					
+1923	cm_arm_1					
+1923	cm_arm_1					
+1923	cm_arm_1					
+1923	cm_arm_1					
+1923	cm_arm_1					
+1923	mh_arm_1					
+1923	mh_arm_1					
+1924	enrollment_arm_1					
+1924	visit_0_arm_1	168	68			
+1924	visit_1_arm_1		68			6.7
+1924	visit_2_arm_1		68	114	67	7
+1924	visit_3_arm_1					
+1924	visit_4_arm_1			146	85	7.5
+1924	cm_arm_1					
+1924	cm_arm_1					
+1924	cm_arm_1					
+1924	cm_arm_1					
+1924	cm_arm_1					
+1924	cm_arm_1					
+1924	cm_arm_1					
+1924	mh_arm_1					
+1924	mh_arm_1					
+1924	mh_arm_1					
+1924	mh_arm_1					
+1925	enrollment_arm_1					
+1925	visit_0_arm_1	168	67	124	84	10
+1925	visit_1_arm_1		67	115	73	8
+1925	visit_2_arm_1		67	114	73	8
+1925	visit_3_arm_1					
+1925	visit_4_arm_1					
+1925	cm_arm_1					
+1925	cm_arm_1					
+1925	cm_arm_1					
+1925	cm_arm_1					
+1925	mh_arm_1					
+1931	enrollment_arm_1					
+1931	visit_0_arm_1	163	71			5.3
+1931	visit_1_arm_1		71			5.3
+1931	visit_2_arm_1					
+1931	visit_3_arm_1					
+1931	visit_4_arm_1					
+1931	cm_arm_1					
+1931	cm_arm_1					
+1931	mh_arm_1					
+1945	enrollment_arm_1					
+1945	visit_0_arm_1	155	62	116	59	7.5
+1945	visit_1_arm_1		62			6.4
+1945	visit_2_arm_1					
+1945	visit_3_arm_1		61			6.9
+1945	visit_4_arm_1					7.4
+1945	cm_arm_1					
+1945	cm_arm_1					
+1945	cm_arm_1					
+1945	cm_arm_1					
+1945	mh_arm_1					
+1945	mh_arm_1					
+1945	mh_arm_1					
+1947	enrollment_arm_1					
+1947	visit_0_arm_1	155	53	134	87	8.4
+1947	visit_1_arm_1		53			7.8
+1947	visit_2_arm_1		53			7.6
+1947	visit_3_arm_1			130		7.6
+1947	visit_4_arm_1					8.3
+1947	cm_arm_1					
+1947	cm_arm_1					
+1947	cm_arm_1					
+1947	cm_arm_1					
+1947	mh_arm_1					
+1949	enrollment_arm_1					
+1949	visit_0_arm_1	160	58			5.9
+1949	visit_1_arm_1					
+1949	visit_2_arm_1		58			5.8
+1949	visit_3_arm_1					
+1949	visit_4_arm_1					6.2
+1949	cm_arm_1					
+1949	cm_arm_1					
+1949	mh_arm_1					
+1949	mh_arm_1					
+1950	enrollment_arm_1					
+1950	visit_0_arm_1	173	70	128	80	6.9
+1950	visit_1_arm_1					
+1950	visit_2_arm_1		70			7.1
+1950	visit_3_arm_1					
+1950	visit_4_arm_1		70	125	80	6.8
+1950	cm_arm_1					
+1950	cm_arm_1					
+1950	cm_arm_1					
+1950	mh_arm_1					
+1950	mh_arm_1					
+1951	enrollment_arm_1					
+1951	visit_0_arm_1	155	51			6.6
+1951	visit_1_arm_1					
+1951	visit_2_arm_1		51			6.4
+1951	visit_3_arm_1					
+1951	visit_4_arm_1		51	120	80	6.5
+1951	cm_arm_1					
+1951	cm_arm_1					
+1951	cm_arm_1					
+1951	cm_arm_1					
+1951	cm_arm_1					
+1951	mh_arm_1					
+1951	mh_arm_1					
+1952	enrollment_arm_1					
+1952	visit_0_arm_1	175	73.1	124	86	7.6
+1952	visit_1_arm_1		73			7.4
+1952	visit_2_arm_1					
+1952	visit_3_arm_1			136	96	10.6
+1952	visit_4_arm_1			123	83	8.4
+1952	cm_arm_1					
+1952	cm_arm_1					
+1952	cm_arm_1					
+1952	mh_arm_1					
+1954	enrollment_arm_1					
+1954	visit_0_arm_1	145	42.5	138	73	8
+1954	visit_1_arm_1		42.5			7.9
+1954	visit_2_arm_1		42.5			7.3
+1954	visit_3_arm_1					
+1954	visit_4_arm_1		42	132	69	7.7
+1954	cm_arm_1					
+1954	cm_arm_1					
+1954	cm_arm_1					
+1954	cm_arm_1					
+1954	cm_arm_1					
+1954	cm_arm_1					
+1954	cm_arm_1					
+1954	cm_arm_1					
+1954	cm_arm_1					
+1954	mh_arm_1					
+1954	mh_arm_1					
+1954	mh_arm_1					
+1954	mh_arm_1					
+1955	enrollment_arm_1					
+1955	visit_0_arm_1	180	81	115	75	8
+1955	visit_1_arm_1		81			7.2
+1955	visit_2_arm_1		81	130	80	7.3
+1955	visit_3_arm_1					
+1955	visit_4_arm_1		81	135	86	7.6
+1955	cm_arm_1					
+1955	cm_arm_1					
+1955	cm_arm_1					
+1955	cm_arm_1					
+1955	cm_arm_1					
+1955	cm_arm_1					
+1955	mh_arm_1					
+1955	mh_arm_1					
+1956	enrollment_arm_1					
+1956	visit_0_arm_1	169	72.5			7
+1956	visit_1_arm_1					
+1956	visit_2_arm_1		72.5			6.6
+1956	visit_3_arm_1					
+1956	visit_4_arm_1					6.8
+1956	cm_arm_1					
+1956	cm_arm_1					
+1956	mh_arm_1					
+1959	enrollment_arm_1					
+1959	visit_0_arm_1	164	68	95	64	7.2
+1959	visit_1_arm_1					
+1959	visit_2_arm_1		68			7.1
+1959	visit_3_arm_1					
+1959	visit_4_arm_1		68	134	83	7.4
+1959	cm_arm_1					
+1959	cm_arm_1					
+1959	cm_arm_1					
+1959	cm_arm_1					
+1959	mh_arm_1					
+1959	mh_arm_1					
+1959	mh_arm_1					
+1961	enrollment_arm_1					
+1961	visit_0_arm_1	154	58			7.3
+1961	visit_1_arm_1		58			7.2
+1961	visit_2_arm_1					
+1961	visit_3_arm_1			123	78	7.7
+1961	visit_4_arm_1					
+1961	cm_arm_1					
+1961	cm_arm_1					
+1961	cm_arm_1					
+1961	mh_arm_1					
+1963	enrollment_arm_1					
+1963	visit_0_arm_1	172	70			5.8
+1963	visit_1_arm_1					
+1963	visit_2_arm_1		70			5.6
+1963	visit_3_arm_1		70			
+1963	visit_4_arm_1					
+1963	cm_arm_1					
+1963	cm_arm_1					
+1963	cm_arm_1					
+1963	cm_arm_1					
+1963	mh_arm_1					
+1970	enrollment_arm_1					
+1970	visit_0_arm_1	163	80	126	82	8.7
+1970	visit_1_arm_1		80			5.7
+1970	visit_2_arm_1		80			
+1970	visit_3_arm_1			116	66	6
+1970	visit_4_arm_1					
+1970	cm_arm_1					
+1970	cm_arm_1					
+1970	cm_arm_1					
+1970	cm_arm_1					
+1970	mh_arm_1					
+1972	enrollment_arm_1					
+1972	visit_0_arm_1	175	68			8.5
+1972	visit_1_arm_1		68			6.6
+1972	visit_2_arm_1					
+1972	visit_3_arm_1		68.9			6.6
+1972	visit_4_arm_1			120	68	6.6
+1974	enrollment_arm_1					
+1974	visit_0_arm_1	173	75			7.3
+1974	visit_1_arm_1		75			7.1
+1974	visit_2_arm_1					
+1974	visit_3_arm_1					7.8
+1974	visit_4_arm_1		76	140		8.4
+1974	cm_arm_1					
+1974	cm_arm_1					
+1974	mh_arm_1					
+1974	mh_arm_1					
+1975	enrollment_arm_1					
+1975	visit_0_arm_1	166	70	135	89	9
+1975	visit_1_arm_1		70			7.5
+1975	visit_2_arm_1					
+1975	visit_3_arm_1		70			7
+1975	visit_4_arm_1					7
+1975	cm_arm_1					
+1975	cm_arm_1					
+1976	enrollment_arm_1					
+1976	visit_0_arm_1	167	68	121	78	7.2
+1976	visit_1_arm_1		65	128	78	
+1976	visit_2_arm_1					
+1976	visit_3_arm_1		68.5	123	74	8
+1976	visit_4_arm_1		68.5	123	74	8
+1976	cm_arm_1					
+1976	cm_arm_1					
+1976	cm_arm_1					
+1976	mh_arm_1					
+1976	mh_arm_1					
+1976	mh_arm_1					
+1977	enrollment_arm_1					
+1977	visit_0_arm_1	158	56			8.5
+1977	visit_1_arm_1		56			8.4
+1977	visit_2_arm_1		56			7.5
+1977	visit_3_arm_1					
+1977	visit_4_arm_1					8.4
+1977	cm_arm_1					
+1977	cm_arm_1					
+1977	cm_arm_1					
+1977	cm_arm_1					
+1977	cm_arm_1					
+1977	cm_arm_1					
+1977	mh_arm_1					
+1977	mh_arm_1					
+1978	enrollment_arm_1					
+1978	visit_0_arm_1	163	63.5	137	94	8.5
+1978	visit_1_arm_1					
+1978	visit_2_arm_1					
+1978	visit_3_arm_1					
+1978	visit_4_arm_1					
+1978	cm_arm_1					
+1978	cm_arm_1					
+1978	cm_arm_1					
+1978	cm_arm_1					
+1978	cm_arm_1					
+1978	cm_arm_1					
+1978	cm_arm_1					
+1978	mh_arm_1					
+1979	enrollment_arm_1					
+1979	visit_0_arm_1	151	71.1	122	88	12.3
+1979	visit_1_arm_1					
+1979	visit_2_arm_1					
+1979	visit_3_arm_1					
+1979	visit_4_arm_1					
+1979	cm_arm_1					
+1979	cm_arm_1					
+1979	cm_arm_1					
+1979	cm_arm_1					
+1979	mh_arm_1					
+1979	mh_arm_1					
+1980	enrollment_arm_1					
+1980	visit_0_arm_1	162	67	128	72	7.8
+1980	visit_1_arm_1		67			7.2
+1980	visit_2_arm_1		67	121	61	7.4
+1980	visit_3_arm_1					
+1980	visit_4_arm_1					7.4
+1980	mh_arm_1					
+1980	mh_arm_1					
+1980	mh_arm_1					
+1981	enrollment_arm_1					
+1981	visit_0_arm_1	150	58	137	56	7.8
+1981	visit_1_arm_1		58			8.2
+1981	visit_2_arm_1		62	124	57	7.5
+1981	visit_3_arm_1		60	136	68	7.5
+1981	visit_4_arm_1			129	65	8.5
+1981	cm_arm_1					
+1981	cm_arm_1					
+1981	cm_arm_1					
+1981	cm_arm_1					
+1981	cm_arm_1					
+1981	cm_arm_1					
+1981	mh_arm_1					
+1981	mh_arm_1					
+1981	mh_arm_1					
+1981	mh_arm_1					
+1982	enrollment_arm_1					
+1982	visit_0_arm_1	160	69	125	83	11.8
+1982	visit_1_arm_1		69	128	74	8.3
+1982	visit_2_arm_1		69			7.5
+1982	visit_3_arm_1					
+1982	visit_4_arm_1			133		9.1
+1982	cm_arm_1					
+1982	cm_arm_1					
+1982	cm_arm_1					
+1982	cm_arm_1					
+1982	cm_arm_1					
+1982	mh_arm_1					
+1983	enrollment_arm_1					
+1983	visit_0_arm_1	161.5	56	129	63	7.3
+1983	visit_1_arm_1		56			7.3
+1983	visit_2_arm_1		56			7.4
+1983	visit_3_arm_1			131	60	7.5
+1983	visit_4_arm_1					
+1983	cm_arm_1					
+1983	cm_arm_1					
+1983	cm_arm_1					
+1983	cm_arm_1					
+1983	mh_arm_1					
+1983	mh_arm_1					
+1984	enrollment_arm_1					
+1984	visit_0_arm_1	173	64			16.1
+1984	visit_1_arm_1		62	119	88	9.6
+1984	visit_2_arm_1		60	124	85	10.6
+1984	visit_3_arm_1					
+1984	visit_4_arm_1					
+1984	cm_arm_1					
+1984	cm_arm_1					
+1984	cm_arm_1					
+1984	cm_arm_1					
+1984	cm_arm_1					
+1984	mh_arm_1					
+1984	mh_arm_1					
+1984	mh_arm_1					
+1986	enrollment_arm_1					
+1987	enrollment_arm_1					
+1987	visit_0_arm_1	171.5	79			11.1
+1987	visit_1_arm_1		79	121	82	6.1
+1987	visit_2_arm_1					
+1987	visit_3_arm_1		79			6
+1987	visit_4_arm_1					
+1991	enrollment_arm_1					
+1991	visit_0_arm_1	164	54	114	67	8.2
+1991	visit_1_arm_1		54	102	71	7.8
+1991	visit_2_arm_1		53.8			7.5
+1991	visit_3_arm_1		54			10.1
+1991	visit_4_arm_1			107	74	7.9
+1991	cm_arm_1					
+1991	cm_arm_1					
+1991	cm_arm_1					
+1991	mh_arm_1					
+1991	mh_arm_1					
+1992	enrollment_arm_1					
+1992	visit_0_arm_1	155.5	48	107	62	6.7
+1992	visit_1_arm_1					
+1992	visit_2_arm_1					
+1992	visit_3_arm_1		47.3			6.8
+1992	visit_4_arm_1					
+1992	cm_arm_1					
+1992	cm_arm_1					
+1992	cm_arm_1					
+1992	cm_arm_1					
+1992	mh_arm_1					
+1993	enrollment_arm_1					
+1993	visit_0_arm_1	153	45.5	127	78	7.7
+1993	visit_1_arm_1		45.5			7.9
+1993	visit_2_arm_1		45.5			
+1993	visit_3_arm_1		45.5			6.9
+1993	visit_4_arm_1					7.5
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	cm_arm_1					
+1993	mh_arm_1					
+1993	mh_arm_1					
+1993	mh_arm_1					
+1993	mh_arm_1					
+1995	enrollment_arm_1					
+1995	visit_0_arm_1	172	61			8.6
+1995	visit_1_arm_1		61			8.1
+1995	visit_2_arm_1		61			8.2
+1995	visit_3_arm_1		61			10.3
+1995	visit_4_arm_1			138	86	9.1
+1995	cm_arm_1					
+1995	cm_arm_1					
+1995	cm_arm_1					
+1995	cm_arm_1					
+1995	cm_arm_1					
+1995	cm_arm_1					
+1995	cm_arm_1					
+1995	cm_arm_1					
+1995	mh_arm_1					
+1995	mh_arm_1					
+1996	enrollment_arm_1					
+1996	visit_0_arm_1	162	64			13.6
+1996	visit_1_arm_1		64			6.7
+1996	visit_2_arm_1		68			7.8
+1996	visit_3_arm_1		70			8.8
+1996	visit_4_arm_1		70	110	75	7.1
+1996	cm_arm_1					
+1996	cm_arm_1					
+1997	enrollment_arm_1					
+1997	visit_0_arm_1	160	62.9			6.3
+1997	visit_1_arm_1					
+1997	visit_2_arm_1					
+1997	visit_3_arm_1					6.8
+1997	visit_4_arm_1		62			6.6
+1997	cm_arm_1					
+1997	cm_arm_1					
+1997	cm_arm_1					
+1997	cm_arm_1					
+1997	cm_arm_1					
+1997	mh_arm_1					
+1998	enrollment_arm_1					
+1998	visit_0_arm_1	154	53	150	79	7.6
+1998	visit_1_arm_1		53			7
+1998	visit_2_arm_1					
+1998	visit_3_arm_1		53			6.9
+1998	visit_4_arm_1					
+1998	mh_arm_1					
+1998	mh_arm_1					
+1998	mh_arm_1					
+1999	enrollment_arm_1					
+1999	visit_0_arm_1	172	68	130	72	8.5
+1999	visit_1_arm_1		71	139	77	7.9
+1999	visit_2_arm_1		71	147	77	7.2
+1999	visit_3_arm_1					
+1999	visit_4_arm_1		73	138	72	8
+1999	cm_arm_1					
+1999	cm_arm_1					
+1999	cm_arm_1					
+1999	cm_arm_1					
+1999	mh_arm_1					
+2000	enrollment_arm_1					
+2000	visit_0_arm_1	171	71	115	93	9.9
+2000	visit_1_arm_1		71			5.8
+2000	visit_2_arm_1					
+2000	visit_3_arm_1					
+2000	visit_4_arm_1					
+2000	cm_arm_1					
+2000	cm_arm_1					
+2000	cm_arm_1					
+2000	cm_arm_1					
+2000	cm_arm_1					
+2000	cm_arm_1					
+2000	mh_arm_1					
+2001	enrollment_arm_1					
+2001	visit_0_arm_1	170	76			7.5
+2001	visit_1_arm_1		76			11
+2001	visit_2_arm_1		76			8.2
+2001	visit_3_arm_1		76			9.2
+2001	visit_4_arm_1					
+2001	cm_arm_1					
+2001	cm_arm_1					
+2001	cm_arm_1					
+2001	cm_arm_1					
+2001	cm_arm_1					
+2001	cm_arm_1					
+2001	mh_arm_1					
+2001	mh_arm_1					
+2002	enrollment_arm_1					
+2002	visit_0_arm_1	157	45.5			8.3
+2002	visit_1_arm_1		45.5			7
+2002	visit_2_arm_1		45.5			8
+2002	visit_3_arm_1		45.5			8.5
+2002	visit_4_arm_1					8.7
+2002	cm_arm_1					
+2002	cm_arm_1					
+2002	cm_arm_1					
+2002	mh_arm_1					
+2006	enrollment_arm_1					
+2006	visit_0_arm_1	160	51	117	78	7.2
+2006	visit_1_arm_1		51			6.5
+2006	visit_2_arm_1		51.7	123	81	7.2
+2006	visit_3_arm_1		51			7.2
+2006	visit_4_arm_1			139	83	7.6
+2006	cm_arm_1					
+2006	cm_arm_1					
+2006	cm_arm_1					
+2006	cm_arm_1					
+2006	mh_arm_1					
+2006	mh_arm_1					
+2007	enrollment_arm_1					
+2007	visit_0_arm_1	156	60	144	84	8.3
+2007	visit_1_arm_1		60			7.9
+2007	visit_2_arm_1		60			6.5
+2007	visit_3_arm_1		56	114	74	8
+2007	visit_4_arm_1			120	70	7.6
+2007	cm_arm_1					
+2007	cm_arm_1					
+2007	cm_arm_1					
+2007	cm_arm_1					
+2007	cm_arm_1					
+2007	mh_arm_1					
+2008	enrollment_arm_1					
+2008	visit_0_arm_1	174.6	74.4	134	81	6.2
+2008	visit_1_arm_1					
+2008	visit_2_arm_1					
+2008	visit_3_arm_1		72	128	76	6
+2008	visit_4_arm_1					
+2008	cm_arm_1					
+2008	cm_arm_1					
+2008	mh_arm_1					
+2009	enrollment_arm_1					
+2009	visit_0_arm_1	152	65			9.3
+2009	visit_1_arm_1		65			7.6
+2009	visit_2_arm_1		65			7.3
+2009	visit_3_arm_1			142	72	7.4
+2009	visit_4_arm_1					7.9
+2009	cm_arm_1					
+2009	cm_arm_1					
+2009	cm_arm_1					
+2009	cm_arm_1					
+2009	cm_arm_1					
+2009	cm_arm_1					
+2009	cm_arm_1					
+2009	mh_arm_1					
+2009	mh_arm_1					
+2013	enrollment_arm_1					
+2013	visit_0_arm_1	163	66	119	80	6.7
+2013	visit_1_arm_1		66			7.1
+2013	visit_2_arm_1					
+2013	visit_3_arm_1		65.9	126	76	7.1
+2013	visit_4_arm_1					
+2013	cm_arm_1					
+2013	cm_arm_1					
+2013	cm_arm_1					
+2013	mh_arm_1					
+2013	mh_arm_1					
+2014	enrollment_arm_1					
+2018	enrollment_arm_1					
+2018	visit_0_arm_1	162	68	125	65	7
+2018	visit_1_arm_1		68			6.6
+2018	visit_2_arm_1		68			
+2018	visit_3_arm_1			126	68	7.1
+2018	visit_4_arm_1					
+2018	cm_arm_1					
+2018	cm_arm_1					
+2018	cm_arm_1					
+2018	cm_arm_1					
+2018	cm_arm_1					
+2018	mh_arm_1					
+2018	mh_arm_1					
+2027	enrollment_arm_1					
+2027	visit_0_arm_1	186	82	110	73	8
+2027	visit_1_arm_1		82			6.2
+2027	visit_2_arm_1					
+2027	visit_3_arm_1					
+2027	visit_4_arm_1		83	107	71	6
+2027	cm_arm_1					
+2027	cm_arm_1					
+2027	cm_arm_1					
+2027	mh_arm_1					
+2028	enrollment_arm_1					
+2028	visit_0_arm_1	175	66	103	63	7.4
+2028	visit_1_arm_1					
+2028	visit_2_arm_1		65	99	74	5.6
+2028	visit_3_arm_1		66			6.5
+2028	visit_4_arm_1					
+2028	cm_arm_1					
+2028	cm_arm_1					
+2028	cm_arm_1					
+2028	mh_arm_1					
+2029	enrollment_arm_1					
+2029	visit_0_arm_1	156	54	138	82	6.8
+2029	visit_1_arm_1		55	129	78	6.6
+2029	visit_2_arm_1		55	166	85	
+2029	visit_3_arm_1			123	70	7
+2029	visit_4_arm_1			143	76	6.9
+2029	cm_arm_1					
+2029	cm_arm_1					
+2029	cm_arm_1					
+2029	cm_arm_1					
+2029	cm_arm_1					
+2029	mh_arm_1					
+2029	mh_arm_1					
+2029	mh_arm_1					
+2038	enrollment_arm_1					
+2038	visit_0_arm_1	176	116			7.4
+2038	visit_1_arm_1		120	126	82	6.2
+2038	visit_2_arm_1					
+2038	visit_3_arm_1		114			6.4
+2038	visit_4_arm_1		109	136	89	6.2
+2038	cm_arm_1					
+2038	cm_arm_1					
+2038	cm_arm_1					
+2038	cm_arm_1					
+2038	mh_arm_1					
+2039	enrollment_arm_1					
+2039	visit_0_arm_1	160	72	131	74	5.7
+2039	visit_1_arm_1		68.5	97	60	6.5
+2039	visit_2_arm_1		68	106	71	8.1
+2039	visit_3_arm_1		72	125	75	7.4
+2039	visit_4_arm_1					
+2039	cm_arm_1					
+2039	cm_arm_1					
+2039	cm_arm_1					
+2039	cm_arm_1					
+2039	mh_arm_1					
+2039	mh_arm_1					
+2043	enrollment_arm_1					
+2043	visit_0_arm_1	169	71.4			6.4
+2043	visit_1_arm_1		71.4			6
+2043	visit_2_arm_1		71.4	109	65	5.7
+2043	visit_3_arm_1					
+2043	visit_4_arm_1					
+2043	cm_arm_1					
+2043	cm_arm_1					
+2043	cm_arm_1					
+2043	cm_arm_1					
+2043	cm_arm_1					
+2043	cm_arm_1					
+2043	cm_arm_1					
+2043	mh_arm_1					
+2043	mh_arm_1					
+2044	enrollment_arm_1					
+2044	visit_0_arm_1	170	75	149	89	7.2
+2044	visit_1_arm_1					
+2044	visit_2_arm_1					
+2044	visit_3_arm_1					
+2044	visit_4_arm_1					
+2044	cm_arm_1					
+2044	cm_arm_1					
+2044	cm_arm_1					
+2044	cm_arm_1					
+2044	cm_arm_1					
+2044	mh_arm_1					
+2044	mh_arm_1					
+2045	enrollment_arm_1					
+2045	visit_0_arm_1	172	70.2	134	88	6.6
+2045	visit_1_arm_1		69	118	72	6.3
+2045	visit_2_arm_1					
+2045	visit_3_arm_1		71.6	123	81	7.1
+2045	visit_4_arm_1					
+2045	cm_arm_1					
+2045	mh_arm_1					
+2046	enrollment_arm_1					
+2046	visit_0_arm_1	167	59	104	58	7.2
+2046	visit_1_arm_1			112	61	6.5
+2046	visit_2_arm_1		59	123	68	6.6
+2046	visit_3_arm_1					
+2046	visit_4_arm_1			95	51	6
+2046	cm_arm_1					
+2046	cm_arm_1					
+2046	cm_arm_1					
+2046	cm_arm_1					
+2046	cm_arm_1					
+2046	cm_arm_1					
+2046	cm_arm_1					
+2046	mh_arm_1					
+2046	mh_arm_1					
+2047	enrollment_arm_1					
+2047	visit_0_arm_1	153	53			9.3
+2047	visit_1_arm_1		53			8.1
+2047	visit_2_arm_1		53			8.2
+2047	visit_3_arm_1			129	65	7.7
+2047	visit_4_arm_1			123	73	8.5
+2047	cm_arm_1					
+2047	cm_arm_1					
+2047	cm_arm_1					
+2047	cm_arm_1					
+2047	cm_arm_1					
+2047	cm_arm_1					
+2047	cm_arm_1					
+2047	cm_arm_1					
+2047	cm_arm_1					
+2047	mh_arm_1					
+2047	mh_arm_1					
+2047	mh_arm_1					
+2047	mh_arm_1					
+2048	enrollment_arm_1					
+2048	visit_0_arm_1	172	66	132	84	6.8
+2048	visit_1_arm_1		64	127	87	7.6
+2048	visit_2_arm_1					
+2048	visit_3_arm_1					8.3
+2048	visit_4_arm_1		63			8.2
+2048	cm_arm_1					
+2048	cm_arm_1					
+2048	cm_arm_1					
+2048	cm_arm_1					
+2048	cm_arm_1					
+2048	mh_arm_1					
+2048	mh_arm_1					
+2048	mh_arm_1					
+2049	enrollment_arm_1					
+2049	visit_0_arm_1	170	63.8	117	79	8.3
+2049	visit_1_arm_1		63.8	117	79	7.9
+2049	visit_2_arm_1		64.7	132	80	8
+2049	visit_3_arm_1		64.7	132	80	8
+2049	visit_4_arm_1			130	81	7.5
+2049	cm_arm_1					
+2049	cm_arm_1					
+2049	mh_arm_1					
+2050	enrollment_arm_1					
+2050	visit_0_arm_1	156	46.5	123	70	6.8
+2050	visit_1_arm_1		45	122	81	7.1
+2050	visit_2_arm_1		45.6			7.2
+2050	visit_3_arm_1		45.6			7.2
+2050	visit_4_arm_1		44.9			7
+2050	cm_arm_1					
+2050	cm_arm_1					
+2050	cm_arm_1					
+2050	cm_arm_1					
+2050	mh_arm_1					
+2051	enrollment_arm_1					
+2051	visit_0_arm_1	162	63	100	54	8.3
+2051	visit_1_arm_1		63	98	55	8.4
+2051	visit_2_arm_1					
+2051	visit_3_arm_1		63	101	29	9.2
+2051	visit_4_arm_1			115	45	9
+2051	cm_arm_1					
+2051	cm_arm_1					
+2051	cm_arm_1					
+2051	cm_arm_1					
+2051	cm_arm_1					
+2051	cm_arm_1					
+2051	cm_arm_1					
+2051	cm_arm_1					
+2051	cm_arm_1					
+2051	mh_arm_1					
+2051	mh_arm_1					
+2051	mh_arm_1					
+2053	enrollment_arm_1					
+2053	visit_0_arm_1	157	68	128	74	7.5
+2053	visit_1_arm_1		68			8.3
+2053	visit_2_arm_1		68			8.6
+2053	visit_3_arm_1		68	117	70	9.3
+2053	visit_4_arm_1		67	118	71	7.5
+2053	cm_arm_1					
+2053	cm_arm_1					
+2053	cm_arm_1					
+2053	cm_arm_1					
+2053	cm_arm_1					
+2053	cm_arm_1					
+2053	mh_arm_1					
+2053	mh_arm_1					
+2053	mh_arm_1					
+2053	mh_arm_1					
+2054	enrollment_arm_1					
+2054	visit_0_arm_1	158.2	59	114	62	6.7
+2054	visit_1_arm_1		61.4			7.4
+2054	visit_2_arm_1					
+2054	visit_3_arm_1		61.4	134	73	7
+2054	visit_4_arm_1		60	108	48	7.4
+2054	cm_arm_1					
+2054	cm_arm_1					
+2054	cm_arm_1					
+2054	cm_arm_1					
+2054	cm_arm_1					
+2054	cm_arm_1					
+2054	mh_arm_1					
+2054	mh_arm_1					
+2054	mh_arm_1					
+2056	enrollment_arm_1					
+2056	visit_0_arm_1	156.9	64.9	116	81	
+2056	visit_1_arm_1		59	105	67	
+2056	visit_2_arm_1		59	105	67	5.9
+2056	visit_3_arm_1		59	105	67	6.3
+2056	visit_4_arm_1					
+2056	cm_arm_1					
+2056	cm_arm_1					
+2056	cm_arm_1					
+2056	mh_arm_1					
+2056	mh_arm_1					
+2059	enrollment_arm_1					
+2059	visit_0_arm_1	174	68	119	70	7.3
+2059	visit_1_arm_1		68			7.9
+2059	visit_2_arm_1					
+2059	visit_3_arm_1					9.4
+2059	visit_4_arm_1					8.1
+2059	cm_arm_1					
+2059	cm_arm_1					
+2059	cm_arm_1					
+2059	mh_arm_1					
+2060	enrollment_arm_1					
+2060	visit_0_arm_1	171	76			7.7
+2060	visit_1_arm_1		76			7.4
+2060	visit_2_arm_1		77	134	87	7.1
+2060	visit_3_arm_1					
+2060	visit_4_arm_1		80.5			8.8
+2060	cm_arm_1					
+2060	cm_arm_1					
+2060	cm_arm_1					
+2060	cm_arm_1					
+2060	mh_arm_1					
+2060	mh_arm_1					
+2061	enrollment_arm_1					
+2061	visit_0_arm_1	154	53	126	63	7.3
+2061	visit_1_arm_1		53	119	59	7
+2061	visit_2_arm_1					
+2061	visit_3_arm_1		53	130	60	7.3
+2061	visit_4_arm_1			133	59	7.6
+2061	cm_arm_1					
+2061	cm_arm_1					
+2061	cm_arm_1					
+2061	cm_arm_1					
+2061	cm_arm_1					
+2061	mh_arm_1					
+2061	mh_arm_1					
+2061	mh_arm_1					
+2062	enrollment_arm_1					
+2062	visit_0_arm_1	159	58	112	65	6.5
+2062	visit_1_arm_1					
+2062	visit_2_arm_1					
+2062	visit_3_arm_1					
+2062	visit_4_arm_1					7.7
+2062	cm_arm_1					
+2062	cm_arm_1					
+2062	cm_arm_1					
+2062	mh_arm_1					
+2063	enrollment_arm_1					
+2063	visit_0_arm_1	168	65	139	88	8.3
+2063	visit_1_arm_1		68	131	92	8.1
+2063	visit_2_arm_1		68			7.7
+2063	visit_3_arm_1					
+2063	visit_4_arm_1			129	77	7.7
+2063	cm_arm_1					
+2063	cm_arm_1					
+2063	cm_arm_1					
+2063	cm_arm_1					
+2063	mh_arm_1					
+2068	enrollment_arm_1					
+2068	visit_0_arm_1	166	76			
+2068	visit_1_arm_1		76			
+2068	visit_2_arm_1					
+2068	visit_3_arm_1					
+2068	visit_4_arm_1					
+2068	mh_arm_1					
+2073	enrollment_arm_1					
+2073	visit_0_arm_1	170	70	121	69	6.8
+2073	visit_1_arm_1		63	112	67	6.8
+2073	visit_2_arm_1					
+2073	visit_3_arm_1		63	125	71	6.6
+2073	visit_4_arm_1		71.7	154	86	6.9
+2073	cm_arm_1					
+2073	cm_arm_1					
+2073	cm_arm_1					
+2073	mh_arm_1					
+2074	enrollment_arm_1					
+2074	visit_0_arm_1	163	57	127	89	6.4
+2074	visit_1_arm_1		57			6.7
+2074	visit_2_arm_1					
+2074	visit_3_arm_1		55.6	117	85	6.4
+2074	visit_4_arm_1			121	84	7.2
+2074	cm_arm_1					
+2074	cm_arm_1					
+2074	cm_arm_1					
+2074	mh_arm_1					
+2078	enrollment_arm_1					
+2078	visit_0_arm_1	159	54			7.4
+2078	visit_1_arm_1					
+2078	visit_2_arm_1		53.5	120	57	6.9
+2078	visit_3_arm_1					
+2078	visit_4_arm_1			118	46	9
+2078	cm_arm_1					
+2078	cm_arm_1					
+2078	cm_arm_1					
+2078	cm_arm_1					
+2078	mh_arm_1					
+2078	mh_arm_1					
+2082	enrollment_arm_1					
+2082	visit_0_arm_1	169	83			7
+2082	visit_1_arm_1		81	137	89	7
+2082	visit_2_arm_1		83			7.5
+2082	visit_3_arm_1		82	128	85	7.6
+2082	visit_4_arm_1			140	88	6.4
+2082	cm_arm_1					
+2082	cm_arm_1					
+2082	cm_arm_1					
+2082	mh_arm_1					
+2082	mh_arm_1					
+2083	enrollment_arm_1					
+2083	visit_0_arm_1	177	77	137	97	7.9
+2083	visit_1_arm_1		77			6.3
+2083	visit_2_arm_1			124	84	7.2
+2083	visit_3_arm_1		77			8.2
+2083	visit_4_arm_1			114	72	7.8
+2083	cm_arm_1					
+2083	cm_arm_1					
+2083	mh_arm_1					
+2088	enrollment_arm_1					
+2088	visit_0_arm_1	159	57.5	97	54	6.5
+2088	visit_1_arm_1		56	97	54	6.4
+2088	visit_2_arm_1					
+2088	visit_3_arm_1		57.5			6.6
+2088	visit_4_arm_1					6.7
+2088	cm_arm_1					
+2088	mh_arm_1					
+2088	mh_arm_1					
+2091	enrollment_arm_1					
+2091	visit_0_arm_1	175	73.6			8.4
+2091	visit_1_arm_1		73.6			
+2091	visit_2_arm_1		73.6			
+2091	visit_3_arm_1					6.3
+2091	visit_4_arm_1					6.1
+2091	cm_arm_1					
+2091	cm_arm_1					
+2091	mh_arm_1					
+2091	mh_arm_1					
+2092	enrollment_arm_1					
+2092	visit_0_arm_1	171	78			8.1
+2092	visit_1_arm_1		78			6.5
+2092	visit_2_arm_1		78			6.3
+2092	visit_3_arm_1		78			
+2092	visit_4_arm_1		78			
+2092	cm_arm_1					
+2092	cm_arm_1					
+2092	cm_arm_1					
+2092	mh_arm_1					
+2093	enrollment_arm_1					
+2093	visit_0_arm_1					
+2093	visit_1_arm_1					
+2093	visit_2_arm_1					
+2093	visit_3_arm_1					
+2093	visit_4_arm_1					
+2093	cm_arm_1					
+2093	mh_arm_1					
+2094	enrollment_arm_1					
+2094	visit_0_arm_1	157	44			6.5
+2094	visit_1_arm_1		44			6.4
+2094	visit_2_arm_1					
+2094	visit_3_arm_1		44			6.7
+2094	visit_4_arm_1		42.3			6.7
+2094	cm_arm_1					
+2094	cm_arm_1					
+2094	mh_arm_1					
+2097	enrollment_arm_1					
+2097	visit_0_arm_1	171	72	117	67	6.7
+2097	visit_1_arm_1		72			6.9
+2097	visit_2_arm_1		71	116	82	6.9
+2097	visit_3_arm_1		72			7.3
+2097	visit_4_arm_1		71	113	77	6.6
+2097	cm_arm_1					
+2097	cm_arm_1					
+2097	cm_arm_1					
+2097	mh_arm_1					
+2097	mh_arm_1					
+2099	enrollment_arm_1					
+2099	visit_0_arm_1	173.2	64	142	79	6.5
+2099	visit_1_arm_1		64.1	117	77	6.7
+2099	visit_2_arm_1					
+2099	visit_3_arm_1					
+2099	visit_4_arm_1					
+2099	cm_arm_1					
+2099	cm_arm_1					
+2099	mh_arm_1					
+2100	enrollment_arm_1					
+2100	visit_0_arm_1	172	73	115	87	9.1
+2100	visit_1_arm_1		73			8.2
+2100	visit_2_arm_1		73			8.5
+2100	visit_3_arm_1		73			9.3
+2100	visit_4_arm_1					8.8
+2100	cm_arm_1					
+2100	cm_arm_1					
+2100	cm_arm_1					
+2100	cm_arm_1					
+2100	mh_arm_1					
+2106	enrollment_arm_1					
+2106	visit_0_arm_1	167	79	140	103	8.8
+2106	visit_1_arm_1					
+2106	visit_2_arm_1		79	137	93	9
+2106	visit_3_arm_1		93	133	95	8.8
+2106	visit_4_arm_1		78			10
+2106	cm_arm_1					
+2106	cm_arm_1					
+2106	cm_arm_1					
+2106	mh_arm_1					
+2106	mh_arm_1					
+2107	enrollment_arm_1					
+2107	visit_0_arm_1	159	65			9
+2107	visit_1_arm_1					
+2107	visit_2_arm_1					
+2107	visit_3_arm_1		65	139	84	7.4
+2107	visit_4_arm_1		64	129	82	7.9
+2107	cm_arm_1					
+2107	cm_arm_1					
+2107	cm_arm_1					
+2107	cm_arm_1					
+2107	cm_arm_1					
+2107	mh_arm_1					
+2107	mh_arm_1					
+2108	enrollment_arm_1					
+2108	visit_0_arm_1	170	77	130	84	6.3
+2108	visit_1_arm_1					
+2108	visit_2_arm_1					
+2108	visit_3_arm_1		76.6	124	77	6.9
+2108	visit_4_arm_1		78	133	82	6.7
+2108	cm_arm_1					
+2108	cm_arm_1					
+2108	mh_arm_1					
+2109	enrollment_arm_1					
+2109	visit_0_arm_1	156.8	44	113	66	12
+2109	visit_1_arm_1		46.7	80	50	6.8
+2109	visit_2_arm_1					
+2109	visit_3_arm_1		46.7			7.9
+2109	visit_4_arm_1					7.6
+2109	cm_arm_1					
+2109	cm_arm_1					
+2109	mh_arm_1					
+2111	enrollment_arm_1					
+2111	visit_0_arm_1	153	45.1		78	8
+2111	visit_1_arm_1		45.1	125	75	5.8
+2111	visit_2_arm_1					
+2111	visit_3_arm_1		45.1			6.4
+2111	visit_4_arm_1			126	76	6.6
+2111	cm_arm_1					
+2111	cm_arm_1					
+2111	cm_arm_1					
+2111	cm_arm_1					
+2111	mh_arm_1					
+2111	mh_arm_1					
+2111	mh_arm_1					
+2111	mh_arm_1					
+2111	mh_arm_1					
+2115	enrollment_arm_1					
+2115	visit_0_arm_1	180	80	110	66	7.4
+2115	visit_1_arm_1		80	110	77	7.4
+2115	visit_2_arm_1		80			
+2115	visit_3_arm_1		79.5	103	67	7.5
+2115	visit_4_arm_1		80	110	66	7.2
+2115	cm_arm_1					
+2115	cm_arm_1					
+2115	cm_arm_1					
+2115	cm_arm_1					
+2115	mh_arm_1					
+2115	mh_arm_1					
+2116	enrollment_arm_1					
+2116	visit_0_arm_1	173	65	114	74	7.3
+2116	visit_1_arm_1		65	120	80	6.9
+2116	visit_2_arm_1					
+2116	visit_3_arm_1					
+2116	visit_4_arm_1					
+2116	cm_arm_1					
+2116	cm_arm_1					
+2116	mh_arm_1					
+2117	enrollment_arm_1					
+2117	visit_0_arm_1	166	106	117	77	8.7
+2117	visit_1_arm_1		100	150	95	6.8
+2117	visit_2_arm_1					10.1
+2117	visit_3_arm_1		103	135	74	9.4
+2117	visit_4_arm_1		105	142	87	7.5
+2117	cm_arm_1					
+2117	cm_arm_1					
+2117	cm_arm_1					
+2117	cm_arm_1					
+2117	mh_arm_1					
+2118	enrollment_arm_1					
+2118	visit_0_arm_1	168	73	113	77	5.8
+2118	visit_1_arm_1		73			
+2118	visit_2_arm_1		73			
+2118	visit_3_arm_1		73	118	81	6.2
+2118	visit_4_arm_1		73	102	66	6
+2118	cm_arm_1					
+2118	cm_arm_1					
+2118	cm_arm_1					
+2118	cm_arm_1					
+2118	cm_arm_1					
+2118	cm_arm_1					
+2118	mh_arm_1					
+2118	mh_arm_1					
+2118	mh_arm_1					
+2119	enrollment_arm_1					
+2119	visit_0_arm_1	183	72	117	73	6.9
+2119	visit_1_arm_1					
+2119	visit_2_arm_1		72.6			7.4
+2119	visit_3_arm_1		72.6			
+2119	visit_4_arm_1					8.2
+2119	cm_arm_1					
+2119	cm_arm_1					
+2119	cm_arm_1					
+2119	mh_arm_1					
+2120	enrollment_arm_1					
+2120	visit_0_arm_1	167	67	137	88	7.6
+2120	visit_1_arm_1		67.9	130	86	8.1
+2120	visit_2_arm_1			131	75	8.6
+2120	visit_3_arm_1					
+2120	visit_4_arm_1					7.7
+2120	cm_arm_1					
+2120	cm_arm_1					
+2120	cm_arm_1					
+2120	cm_arm_1					
+2120	cm_arm_1					
+2120	mh_arm_1					
+2120	mh_arm_1					
+2121	enrollment_arm_1					
+2121	visit_0_arm_1	160	59	107	74	6.4
+2121	visit_1_arm_1		60	140	88	6.7
+2121	visit_2_arm_1					
+2121	visit_3_arm_1		59			7.3
+2121	visit_4_arm_1			138	90	7.4
+2121	mh_arm_1					
+2123	enrollment_arm_1					
+2123	visit_0_arm_1	170	74			8.5
+2123	visit_1_arm_1		74			7.6
+2123	visit_2_arm_1					
+2123	visit_3_arm_1		74	144	75	7.4
+2123	visit_4_arm_1		78			8
+2123	cm_arm_1					
+2123	cm_arm_1					
+2123	cm_arm_1					
+2123	cm_arm_1					
+2123	cm_arm_1					
+2123	cm_arm_1					
+2123	mh_arm_1					
+2123	mh_arm_1					
+2123	mh_arm_1					
+2123	mh_arm_1					
+2124	enrollment_arm_1					
+2124	visit_0_arm_1	175	73	128	66	6.6
+2124	visit_1_arm_1		73	123	75	6.7
+2124	visit_2_arm_1					
+2124	visit_3_arm_1		73.1			7
+2124	visit_4_arm_1		73	119	67	6.6
+2124	cm_arm_1					
+2124	cm_arm_1					
+2124	cm_arm_1					
+2124	cm_arm_1					
+2124	mh_arm_1					
+2124	mh_arm_1					
+2124	mh_arm_1					
+2124	mh_arm_1					
+2125	enrollment_arm_1					
+2125	visit_0_arm_1	146.9	40.7			6.6
+2125	visit_1_arm_1		45.6			6.7
+2125	visit_2_arm_1		45.6			
+2125	visit_3_arm_1		45.6	116	69	8.1
+2125	visit_4_arm_1		47	105	72	6.8
+2125	cm_arm_1					
+2125	cm_arm_1					
+2125	cm_arm_1					
+2125	cm_arm_1					
+2125	cm_arm_1					
+2125	cm_arm_1					
+2125	cm_arm_1					
+2125	mh_arm_1					
+2125	mh_arm_1					
+2126	enrollment_arm_1					
+2126	visit_0_arm_1	155	83			7.5
+2126	visit_1_arm_1		83.5			7.4
+2126	visit_2_arm_1					
+2126	visit_3_arm_1					
+2126	visit_4_arm_1		84.5	123	68	6.9
+2126	cm_arm_1					
+2126	cm_arm_1					
+2126	cm_arm_1					
+2126	cm_arm_1					
+2126	cm_arm_1					
+2126	mh_arm_1					
+2126	mh_arm_1					
+2126	mh_arm_1					
+2126	mh_arm_1					
+2128	enrollment_arm_1					
+2128	visit_0_arm_1	159	55	102	74	6.4
+2128	visit_1_arm_1					
+2128	visit_2_arm_1					
+2128	visit_3_arm_1					
+2128	visit_4_arm_1					
+2128	mh_arm_1					
+2129	enrollment_arm_1					
+2129	visit_0_arm_1	163	63	128	73	5.2
+2129	visit_1_arm_1		64.7			
+2129	visit_2_arm_1		64.7	123	81	
+2129	visit_3_arm_1					
+2129	visit_4_arm_1		58	112	74	
+2129	mh_arm_1					
+2131	enrollment_arm_1					
+2131	visit_0_arm_1	172	84	114	76	8.1
+2131	visit_1_arm_1					
+2131	visit_2_arm_1		80			7.3
+2131	visit_3_arm_1					
+2131	visit_4_arm_1					
+2131	cm_arm_1					
+2131	cm_arm_1					
+2131	cm_arm_1					
+2131	mh_arm_1					
+2132	enrollment_arm_1					
+2132	visit_0_arm_1	179	83	112	86	7.7
+2132	visit_1_arm_1					
+2132	visit_2_arm_1		79	119	84	6.7
+2132	visit_3_arm_1					
+2132	visit_4_arm_1		81	121	83	7
+2132	cm_arm_1					
+2132	cm_arm_1					
+2132	mh_arm_1					
+2136	enrollment_arm_1					
+2136	visit_0_arm_1	170	61	102	62	6.5
+2136	visit_1_arm_1		61	105	62	6.2
+2136	visit_2_arm_1					
+2136	visit_3_arm_1		61	140	70	6.4
+2136	visit_4_arm_1		59	94	61	6.3
+2136	cm_arm_1					
+2136	cm_arm_1					
+2136	mh_arm_1					
+2137	enrollment_arm_1					
+2137	visit_0_arm_1	174	110			
+2137	visit_1_arm_1		105	129	84	
+2137	visit_2_arm_1		110			5.9
+2137	visit_3_arm_1					
+2137	visit_4_arm_1					
+2137	mh_arm_1					
+2137	mh_arm_1					
+2139	enrollment_arm_1					
+2139	visit_0_arm_1	158	59			8.1
+2139	visit_1_arm_1		59			7.8
+2139	visit_2_arm_1					
+2139	visit_3_arm_1					7.8
+2139	visit_4_arm_1					8.3
+2140	enrollment_arm_1					
+2140	visit_0_arm_1	168	60	147	96	8
+2140	visit_1_arm_1		63	147	96	6.9
+2140	visit_2_arm_1					
+2140	visit_3_arm_1		60			10.6
+2140	visit_4_arm_1			137	89	9.1
+2140	cm_arm_1					
+2140	cm_arm_1					
+2140	cm_arm_1					
+2140	mh_arm_1					
+2140	mh_arm_1					
+2140	mh_arm_1					
+2141	enrollment_arm_1					
+2141	visit_0_arm_1	185	76			7.7
+2141	visit_1_arm_1		76	114	64	7.2
+2141	visit_2_arm_1					
+2141	visit_3_arm_1					
+2141	visit_4_arm_1					
+2141	cm_arm_1					
+2141	cm_arm_1					
+2141	cm_arm_1					
+2141	cm_arm_1					
+2141	mh_arm_1					
+2141	mh_arm_1					
+2142	enrollment_arm_1					
+2142	visit_0_arm_1	163	49			6.6
+2142	visit_1_arm_1					
+2142	visit_2_arm_1		49			6.3
+2142	visit_3_arm_1			114	74	6.4
+2142	visit_4_arm_1		48	122	84	7.5
+2142	cm_arm_1					
+2142	cm_arm_1					
+2142	mh_arm_1					
+2143	enrollment_arm_1					
+2143	visit_0_arm_1	166	65			6.8
+2143	visit_1_arm_1					
+2143	visit_2_arm_1		65			7
+2143	visit_3_arm_1					6.2
+2143	visit_4_arm_1		70.5	123	68	6.5
+2143	cm_arm_1					
+2143	cm_arm_1					
+2143	mh_arm_1					
+2144	enrollment_arm_1					
+2144	visit_0_arm_1	161	60.5			10.4
+2144	visit_1_arm_1		60.5			
+2144	visit_2_arm_1		60.5	132	90	5.9
+2144	visit_3_arm_1		60.5			
+2144	visit_4_arm_1					5.7
+2144	cm_arm_1					
+2144	cm_arm_1					
+2144	mh_arm_1					
+2149	enrollment_arm_1					
+2149	visit_0_arm_1	158.1	64	123	82	7.2
+2149	visit_1_arm_1		62	128	79	7.2
+2149	visit_2_arm_1					
+2149	visit_3_arm_1		64			8
+2149	visit_4_arm_1		66	112	68	6.9
+2149	cm_arm_1					
+2149	cm_arm_1					
+2149	cm_arm_1					
+2149	mh_arm_1					
+2149	mh_arm_1					
+2150	enrollment_arm_1					
+2150	visit_0_arm_1	163	75	118	82	6.8
+2150	visit_1_arm_1					
+2150	visit_2_arm_1		75			7.2
+2150	visit_3_arm_1					
+2150	visit_4_arm_1		75	133	87	7.8
+2150	cm_arm_1					
+2150	cm_arm_1					
+2150	cm_arm_1					
+2150	cm_arm_1					
+2150	mh_arm_1					
+2150	mh_arm_1					
+2151	enrollment_arm_1					
+2151	visit_0_arm_1	172	94	118	77	9.6
+2151	visit_1_arm_1		90.6			6.9
+2151	visit_2_arm_1					
+2151	visit_3_arm_1		90	122	74	7.4
+2151	visit_4_arm_1		89	123	84	7.6
+2151	cm_arm_1					
+2151	cm_arm_1					
+2151	cm_arm_1					
+2151	cm_arm_1					
+2151	cm_arm_1					
+2151	cm_arm_1					
+2151	cm_arm_1					
+2151	mh_arm_1					
+2151	mh_arm_1					
+2151	mh_arm_1					
+2153	enrollment_arm_1					
+2153	visit_0_arm_1	170	75	132	94	9.3
+2153	visit_1_arm_1		71.6	129	95	6.5
+2153	visit_2_arm_1					
+2153	visit_3_arm_1		72	132	97	6.3
+2153	visit_4_arm_1		73.3			6.3
+2153	cm_arm_1					
+2153	cm_arm_1					
+2153	cm_arm_1					
+2153	mh_arm_1					
+2154	enrollment_arm_1					
+2154	visit_0_arm_1	168	68.8	118	76	6.6
+2154	visit_1_arm_1					
+2154	visit_2_arm_1		75	145	91	7.3
+2154	visit_3_arm_1					
+2154	visit_4_arm_1			119	65	7.6
+2154	cm_arm_1					
+2154	cm_arm_1					
+2154	cm_arm_1					
+2154	cm_arm_1					
+2154	mh_arm_1					
+2154	mh_arm_1					
+2154	mh_arm_1					
+2156	enrollment_arm_1					
+2156	visit_0_arm_1	160	72	131	81	11
+2156	visit_1_arm_1		72			8.1
+2156	visit_2_arm_1		69	102	63	7.7
+2156	visit_3_arm_1					6.7
+2156	visit_4_arm_1		67.3	114	71	6.3
+2156	cm_arm_1					
+2156	cm_arm_1					
+2156	cm_arm_1					
+2156	mh_arm_1					
+2158	enrollment_arm_1					
+2158	visit_0_arm_1	170	90			8.8
+2158	visit_1_arm_1		90			7.8
+2158	visit_2_arm_1					
+2158	visit_3_arm_1					
+2158	visit_4_arm_1					
+2158	cm_arm_1					
+2158	cm_arm_1					
+2159	enrollment_arm_1					
+2159	visit_0_arm_1	176	79	135	88	8.1
+2159	visit_1_arm_1		78	132	89	8.1
+2159	visit_2_arm_1		80	125	88	6.7
+2159	visit_3_arm_1					
+2159	visit_4_arm_1			124	84	6.4
+2159	cm_arm_1					
+2159	cm_arm_1					
+2159	cm_arm_1					
+2159	cm_arm_1					
+2159	mh_arm_1					
+2160	enrollment_arm_1					
+2160	visit_0_arm_1	173	72	131	88	8.9
+2160	visit_1_arm_1					
+2160	visit_2_arm_1					
+2160	visit_3_arm_1					
+2160	visit_4_arm_1					
+2160	cm_arm_1					
+2160	cm_arm_1					
+2160	cm_arm_1					
+2160	cm_arm_1					
+2160	cm_arm_1					
+2160	cm_arm_1					
+2160	mh_arm_1					
+2160	mh_arm_1					
+2160	mh_arm_1					
+2161	enrollment_arm_1					
+2161	visit_0_arm_1	158	57	121	73	6.7
+2161	visit_1_arm_1					
+2161	visit_2_arm_1					
+2161	visit_3_arm_1					
+2161	visit_4_arm_1					
+2161	cm_arm_1					
+2161	cm_arm_1					
+2161	mh_arm_1					
+2162	enrollment_arm_1					
+2162	visit_0_arm_1	179	71	118	83	11.2
+2162	visit_1_arm_1					
+2162	visit_2_arm_1		71			7.2
+2162	visit_3_arm_1			120	76	7.6
+2162	visit_4_arm_1			128	76	8.3
+2162	cm_arm_1					
+2162	cm_arm_1					
+2162	cm_arm_1					
+2162	cm_arm_1					
+2162	mh_arm_1					
+2163	enrollment_arm_1					
+2163	visit_0_arm_1	170	66			10.6
+2163	visit_1_arm_1					
+2163	visit_2_arm_1					
+2163	visit_3_arm_1					
+2163	visit_4_arm_1					
+2163	cm_arm_1					
+2163	cm_arm_1					
+2163	mh_arm_1					
+2166	enrollment_arm_1					
+2166	visit_0_arm_1	162.5	59.9			6.3
+2166	visit_1_arm_1					
+2166	visit_2_arm_1					
+2166	visit_3_arm_1		58	123	73	5.8
+2166	visit_4_arm_1		58	128	79	5.9
+2166	mh_arm_1					
+2167	enrollment_arm_1					
+2167	visit_0_arm_1	161	70	130	82	6.9
+2167	visit_1_arm_1					
+2167	visit_2_arm_1		68	137	85	8.2
+2167	visit_3_arm_1		67		77	7.3
+2167	visit_4_arm_1		67	124	84	7.9
+2167	cm_arm_1					
+2167	cm_arm_1					
+2167	cm_arm_1					
+2167	cm_arm_1					
+2167	mh_arm_1					
+2167	mh_arm_1					
+2167	mh_arm_1					
+2173	enrollment_arm_1					
+2173	visit_0_arm_1	162	65			9.3
+2173	visit_1_arm_1					
+2173	visit_2_arm_1		67	130	80	6
+2173	visit_3_arm_1		69	129	80	6.2
+2173	visit_4_arm_1			125	68	6.2
+2173	cm_arm_1					
+2173	cm_arm_1					
+2173	cm_arm_1					
+2173	cm_arm_1					
+2173	mh_arm_1					
+2173	mh_arm_1					
+2173	mh_arm_1					
+2174	enrollment_arm_1					
+2174	visit_0_arm_1	174	69	111	64	6.7
+2174	visit_1_arm_1					
+2174	visit_2_arm_1		69	117	69	7
+2174	visit_3_arm_1					
+2174	visit_4_arm_1			111	65	6.9
+2174	cm_arm_1					
+2174	cm_arm_1					
+2174	mh_arm_1					
+2175	enrollment_arm_1					
+2175	visit_0_arm_1	169.5	75.5			6.7
+2175	visit_1_arm_1					
+2175	visit_2_arm_1		80	129	85	8.3
+2175	visit_3_arm_1		78	111	77	7.2
+2175	visit_4_arm_1			113	71	8.9
+2176	enrollment_arm_1					
+2176	visit_0_arm_1	158	55	113	75	10.9
+2176	visit_1_arm_1		55			7.7
+2176	visit_2_arm_1					
+2176	visit_3_arm_1		58	109	49	7.2
+2176	visit_4_arm_1		57.3			6.2
+2176	cm_arm_1					
+2176	cm_arm_1					
+2176	cm_arm_1					
+2176	mh_arm_1					
+2176	mh_arm_1					
+2177	enrollment_arm_1					
+2177	visit_0_arm_1	160	68.4	106	64	6
+2177	visit_1_arm_1					
+2177	visit_2_arm_1		70	122	52	6.7
+2177	visit_3_arm_1		64			6.2
+2177	visit_4_arm_1		65	105	63	6.2
+2177	mh_arm_1					
+2178	enrollment_arm_1					
+2178	visit_0_arm_1	175	70	149	97	11.5
+2178	visit_1_arm_1		72	147	92	7.2
+2178	visit_2_arm_1					
+2178	visit_3_arm_1		72			8.6
+2178	visit_4_arm_1			131	70	7
+2178	cm_arm_1					
+2178	cm_arm_1					
+2178	cm_arm_1					
+2178	mh_arm_1					
+2180	enrollment_arm_1					
+2180	visit_0_arm_1	162	60	124	94	9.1
+2180	visit_1_arm_1					
+2180	visit_2_arm_1		63.5	124	94	6.8
+2180	visit_3_arm_1		61	110	76	6.7
+2180	visit_4_arm_1		63	112	75	6.7
+2180	cm_arm_1					
+2180	cm_arm_1					
+2180	mh_arm_1					
+2181	enrollment_arm_1					
+2181	visit_0_arm_1	175	72	130	75	7.6
+2181	visit_1_arm_1					
+2181	visit_2_arm_1					
+2181	visit_3_arm_1			142	74	6.3
+2181	visit_4_arm_1		71	138	81	6.2
+2181	cm_arm_1					
+2181	cm_arm_1					
+2181	mh_arm_1					
+2181	mh_arm_1					
+2182	enrollment_arm_1					
+2182	visit_0_arm_1	160	92.5	123	81	7.6
+2182	visit_1_arm_1		83.5			8.7
+2182	visit_2_arm_1		82	120	80	7.6
+2182	visit_3_arm_1		81.5			7.6
+2182	visit_4_arm_1		79.8	121	81	6.7
+2182	cm_arm_1					
+2182	cm_arm_1					
+2182	cm_arm_1					
+2182	mh_arm_1					
+2183	enrollment_arm_1					
+2183	visit_0_arm_1	170	62			7.7
+2183	visit_1_arm_1					
+2183	visit_2_arm_1		62	126	82	7.1
+2183	visit_3_arm_1					
+2183	visit_4_arm_1			121	76	6.8
+2183	cm_arm_1					
+2183	cm_arm_1					
+2183	mh_arm_1					
+2183	mh_arm_1					
+2184	enrollment_arm_1					
+2184	visit_0_arm_1	162.9	60.3			5.1
+2184	visit_1_arm_1		60.7	108	68	
+2184	visit_2_arm_1					
+2184	visit_3_arm_1		60.3			
+2184	visit_4_arm_1					
+2184	mh_arm_1					
+2185	enrollment_arm_1					
+2185	visit_0_arm_1	159.2	65	121	66	7.1
+2185	visit_1_arm_1					
+2185	visit_2_arm_1		65	138	64	7.3
+2185	visit_3_arm_1					
+2185	visit_4_arm_1		68.3	103	51	7.4
+2185	cm_arm_1					
+2185	cm_arm_1					
+2185	cm_arm_1					
+2185	cm_arm_1					
+2185	cm_arm_1					
+2185	cm_arm_1					
+2185	mh_arm_1					
+2185	mh_arm_1					
+2185	mh_arm_1					
+2185	mh_arm_1					
+2192	enrollment_arm_1					
+2192	visit_0_arm_1	166	65	115	82	
+2192	visit_1_arm_1		69.5	109	81	5.5
+2192	visit_2_arm_1		72	124	74	5.4
+2192	visit_3_arm_1					
+2192	visit_4_arm_1		60	102	69	5.8
+2192	mh_arm_1					
+2200	enrollment_arm_1					
+2200	visit_0_arm_1	177	66	116	75	11.6
+2200	visit_1_arm_1		66			9.8
+2200	visit_2_arm_1					
+2200	visit_3_arm_1					
+2200	visit_4_arm_1					
+2200	cm_arm_1					
+2200	cm_arm_1					
+2200	mh_arm_1					
+2201	enrollment_arm_1					
+2201	visit_0_arm_1	164	70	103	65	6.7
+2201	visit_1_arm_1					
+2201	visit_2_arm_1		68			6.6
+2201	visit_3_arm_1		69	104	65	6.8
+2201	visit_4_arm_1		69	103	58	6.7
+2201	cm_arm_1					
+2201	mh_arm_1					
+2202	enrollment_arm_1					
+2202	visit_0_arm_1	163.5	57	109	65	6.5
+2202	visit_1_arm_1					
+2202	visit_2_arm_1		57	109	65	7.3
+2202	visit_3_arm_1					
+2202	visit_4_arm_1		57	117	77	7
+2202	cm_arm_1					
+2202	cm_arm_1					
+2202	cm_arm_1					
+2202	cm_arm_1					
+2202	cm_arm_1					
+2202	mh_arm_1					
+2203	enrollment_arm_1					
+2203	visit_0_arm_1	181	74	149	97	5.9
+2203	visit_1_arm_1		74			6.5
+2203	visit_2_arm_1					
+2203	visit_3_arm_1			150	87	6.1
+2203	visit_4_arm_1		74	153	72	7.1
+2203	cm_arm_1					
+2203	mh_arm_1					
+2204	enrollment_arm_1					
+2204	visit_0_arm_1	148	48	111	71	7.1
+2204	visit_1_arm_1					
+2204	visit_2_arm_1		42	126	72	7.4
+2204	visit_3_arm_1		47	120	65	7.2
+2204	visit_4_arm_1			120	66	7.6
+2204	cm_arm_1					
+2204	cm_arm_1					
+2204	cm_arm_1					
+2204	mh_arm_1					
+2204	mh_arm_1					
+2204	mh_arm_1					
+2205	enrollment_arm_1					
+2205	visit_0_arm_1	154	60			
+2205	visit_1_arm_1					
+2205	visit_2_arm_1			132	82	6.3
+2205	visit_3_arm_1					
+2205	visit_4_arm_1		61.5	128	78	6
+2205	cm_arm_1					
+2205	cm_arm_1					
+2205	cm_arm_1					
+2205	mh_arm_1					
+2205	mh_arm_1					
+2206	enrollment_arm_1					
+2206	visit_0_arm_1	163	65	119	77	7.1
+2206	visit_1_arm_1					
+2206	visit_2_arm_1					
+2206	visit_3_arm_1					
+2206	visit_4_arm_1					
+2206	mh_arm_1					
+2207	enrollment_arm_1					
+2207	visit_0_arm_1	163	73	121	80	6.8
+2207	visit_1_arm_1					
+2207	visit_2_arm_1		75	125	83	8
+2207	visit_3_arm_1					6.3
+2207	visit_4_arm_1					
+2207	cm_arm_1					
+2207	cm_arm_1					
+2207	cm_arm_1					
+2207	cm_arm_1					
+2207	cm_arm_1					
+2207	mh_arm_1					
+2208	enrollment_arm_1					
+2208	visit_0_arm_1	181	76	126	74	6.9
+2208	visit_1_arm_1					
+2208	visit_2_arm_1		75	124	80	6.5
+2208	visit_3_arm_1					
+2208	visit_4_arm_1			165	91	6.6
+2208	cm_arm_1					
+2208	cm_arm_1					
+2208	mh_arm_1					
+2208	mh_arm_1					
+2209	enrollment_arm_1					
+2209	visit_0_arm_1	168	67	131	84	6.6
+2209	visit_1_arm_1					
+2209	visit_2_arm_1		67	134	92	6.8
+2209	visit_3_arm_1					
+2209	visit_4_arm_1		67.5	132	88	7
+2209	cm_arm_1					
+2209	cm_arm_1					
+2209	mh_arm_1					
+2209	mh_arm_1					
+2210	enrollment_arm_1					
+2210	visit_0_arm_1	179	80			9.8
+2210	visit_1_arm_1					
+2210	visit_2_arm_1		86	130	80	8.7
+2210	visit_3_arm_1					9
+2210	visit_4_arm_1					9.3
+2210	cm_arm_1					
+2210	cm_arm_1					
+2210	mh_arm_1					
+2210	mh_arm_1					
+2211	enrollment_arm_1					
+2211	visit_0_arm_1	169	70	112	55	6.1
+2211	visit_1_arm_1		70			6
+2211	visit_2_arm_1		70			
+2211	visit_3_arm_1					6.3
+2211	visit_4_arm_1		73			6.2
+2211	cm_arm_1					
+2211	cm_arm_1					
+2211	cm_arm_1					
+2211	cm_arm_1					
+2211	cm_arm_1					
+2211	mh_arm_1					
+2211	mh_arm_1					
+2211	mh_arm_1					
+2211	mh_arm_1					
+2211	mh_arm_1					
+2211	mh_arm_1					
+2212	enrollment_arm_1					
+2212	visit_0_arm_1	174	83			7
+2212	visit_1_arm_1					
+2212	visit_2_arm_1					
+2212	visit_3_arm_1		86			8
+2212	visit_4_arm_1		84	121	81	7.8
+2212	cm_arm_1					
+2212	cm_arm_1					
+2212	cm_arm_1					
+2212	cm_arm_1					
+2212	mh_arm_1					
+2213	enrollment_arm_1					
+2213	visit_0_arm_1	148	49.2	120	62	7.6
+2213	visit_1_arm_1					
+2213	visit_2_arm_1		49.2	115	49	8.1
+2213	visit_3_arm_1		49.2	125	66	8.1
+2213	visit_4_arm_1			111	60	8.5
+2213	cm_arm_1					
+2213	cm_arm_1					
+2213	cm_arm_1					
+2213	mh_arm_1					
+2213	mh_arm_1					
+2213	mh_arm_1					
+2214	enrollment_arm_1					
+2214	visit_0_arm_1	180	83			8.9
+2214	visit_1_arm_1		85			
+2214	visit_2_arm_1		86.3			9.4
+2214	visit_3_arm_1					
+2214	visit_4_arm_1					
+2214	cm_arm_1					
+2214	cm_arm_1					
+2214	cm_arm_1					
+2214	mh_arm_1					
+2214	mh_arm_1					
+2216	enrollment_arm_1					
+2216	visit_0_arm_1	163.7	69.8			7.7
+2216	visit_1_arm_1		70.2	126	71	6.8
+2216	visit_2_arm_1		70.2			7
+2216	visit_3_arm_1					
+2216	visit_4_arm_1					
+2216	cm_arm_1					
+2216	cm_arm_1					
+2216	cm_arm_1					
+2216	cm_arm_1					
+2216	cm_arm_1					
+2216	cm_arm_1					
+2216	cm_arm_1					
+2216	mh_arm_1					
+2216	mh_arm_1					
+2216	mh_arm_1					
+2217	enrollment_arm_1					
+2217	visit_0_arm_1	165	67	97	65	9.2
+2217	visit_1_arm_1		67	96	61	9.2
+2217	visit_2_arm_1		67			9.5
+2217	visit_3_arm_1		70	100	68	8.9
+2217	visit_4_arm_1					9.5
+2217	cm_arm_1					
+2217	cm_arm_1					
+2217	cm_arm_1					
+2217	cm_arm_1					
+2217	cm_arm_1					
+2217	cm_arm_1					
+2217	mh_arm_1					
+2217	mh_arm_1					
+2218	enrollment_arm_1					
+2218	visit_0_arm_1	182	97	149	102	8.8
+2218	visit_1_arm_1		95	140	90	10.1
+2218	visit_2_arm_1					
+2218	visit_3_arm_1					
+2218	visit_4_arm_1					
+2218	cm_arm_1					
+2218	cm_arm_1					
+2218	cm_arm_1					
+2218	cm_arm_1					
+2218	mh_arm_1					
+2218	mh_arm_1					
+2220	enrollment_arm_1					
+2220	visit_0_arm_1	157.1	58.5			5.5
+2220	visit_1_arm_1		55			6.5
+2220	visit_2_arm_1		58.5			7.2
+2220	visit_3_arm_1					6.7
+2220	visit_4_arm_1			96	60	5.8
+2220	cm_arm_1					
+2220	cm_arm_1					
+2220	cm_arm_1					
+2220	mh_arm_1					
+2224	enrollment_arm_1					
+2224	visit_0_arm_1	183	75	134	81	9.9
+2224	visit_1_arm_1		75	127	69	9.7
+2224	visit_2_arm_1		75	110	70	9.9
+2224	visit_3_arm_1		75	107	75	10
+2224	visit_4_arm_1		75	107	75	9.9
+2224	cm_arm_1					
+2224	cm_arm_1					
+2224	mh_arm_1					
+2228	enrollment_arm_1					
+2228	visit_0_arm_1	170	63	121	75	6.8
+2228	visit_1_arm_1					
+2228	visit_2_arm_1					
+2228	visit_3_arm_1					
+2228	visit_4_arm_1					
+2228	mh_arm_1					
+2229	enrollment_arm_1					
+2229	visit_0_arm_1	173.3	65	122	81	7
+2229	visit_1_arm_1					
+2229	visit_2_arm_1			122	82	6.8
+2229	visit_3_arm_1					
+2229	visit_4_arm_1		64	128	89	7.1
+2230	enrollment_arm_1					
+2230	visit_0_arm_1	158.6	55.7	111	60	7
+2230	visit_1_arm_1					
+2230	visit_2_arm_1					6.8
+2230	visit_3_arm_1					
+2230	visit_4_arm_1			120	80	7.4
+2231	enrollment_arm_1					
+2231	visit_0_arm_1	149	66	120	69	9.1
+2231	visit_1_arm_1					7.8
+2231	visit_2_arm_1			112	60	8.4
+2231	visit_3_arm_1					8.7
+2231	visit_4_arm_1		60	120	68	9.2
+2232	enrollment_arm_1					
+2232	visit_0_arm_1	160	53	108	64	6.3
+2232	visit_1_arm_1					
+2232	visit_2_arm_1					6.7
+2232	visit_3_arm_1					
+2232	visit_4_arm_1		55.8	113	73	6.7
+2262	enrollment_arm_1					
+2262	visit_0_arm_1	160	53	110	65	7.9
+2262	visit_1_arm_1		48.5	115	65	7.2
+2262	visit_2_arm_1		47.5	94	50	8.5
+2262	visit_3_arm_1		47			8.5
+2262	visit_4_arm_1		46.2	108	56	9.3
+2264	enrollment_arm_1					
+2264	visit_0_arm_1	174	105	123	71	11.2
+2264	visit_1_arm_1		95.2	160	95	6.7
+2264	visit_2_arm_1		100	163	94	6.9
+2264	visit_3_arm_1		101	139	92	7.3
+2264	visit_4_arm_1		100	139	76	7.3
+2265	enrollment_arm_1					
+2265	visit_0_arm_1	145	60	118	72	6.4
+2265	visit_1_arm_1					
+2265	visit_2_arm_1		61	119	81	6.6
+2265	visit_3_arm_1					
+2265	visit_4_arm_1		59.8	117	77	6.6
+2276	enrollment_arm_1					
+2276	visit_0_arm_1	176	70	145	97	6.8
+2276	visit_1_arm_1					
+2276	visit_2_arm_1					7.8
+2276	visit_3_arm_1					
+2276	visit_4_arm_1		65	129	85	7.3
+2279	enrollment_arm_1					
+2279	visit_0_arm_1	158	61	109	69	6.4
+2279	visit_1_arm_1					
+2279	visit_2_arm_1		61	136	72	6.4
+2279	visit_3_arm_1					
+2279	visit_4_arm_1		57.8			5.8
+2280	enrollment_arm_1					
+2280	visit_0_arm_1	168	64	120	81	7.9
+2280	visit_1_arm_1			121	82	6.7
+2280	visit_2_arm_1					7.4
+2280	visit_3_arm_1		66	105	71	6.5
+2280	visit_4_arm_1					
+2281	enrollment_arm_1					
+2281	visit_0_arm_1	170	61	113	71	7.8
+2281	visit_1_arm_1					
+2281	visit_2_arm_1			108	63	
+2281	visit_3_arm_1			110	56	9.5
+2281	visit_4_arm_1					
+2283	enrollment_arm_1					
+2283	visit_0_arm_1	165	70	133	78	7.7
+2283	visit_1_arm_1					
+2283	visit_2_arm_1					7.4
+2283	visit_3_arm_1					
+2283	visit_4_arm_1			126	83	7.6
+2285	enrollment_arm_1					
+2285	visit_0_arm_1	165		134	92	7.1
+2285	visit_1_arm_1					
+2285	visit_2_arm_1			135	65	7.3
+2285	visit_3_arm_1					
+2285	visit_4_arm_1					7.2
+2289	enrollment_arm_1					
+2289	visit_0_arm_1	157	74	121	68	6.9
+2289	visit_1_arm_1		73	117	65	6.7
+2289	visit_2_arm_1		73	117	65	6.8
+2289	visit_3_arm_1		72	148	83	7.1
+2289	visit_4_arm_1					
+2291	enrollment_arm_1					
+2291	visit_0_arm_1	164.7	56	102	62	6.9
+2291	visit_1_arm_1					
+2291	visit_2_arm_1					
+2291	visit_3_arm_1					
+2291	visit_4_arm_1					
+2295	enrollment_arm_1					
+2295	visit_0_arm_1	166.4	66	132	79	7
+2295	visit_1_arm_1					
+2295	visit_2_arm_1					8.3
+2295	visit_3_arm_1					
+2295	visit_4_arm_1					
+2297	enrollment_arm_1					
+2297	visit_0_arm_1	161	54			6.3
+2297	visit_1_arm_1					
+2297	visit_2_arm_1					6.4
+2297	visit_3_arm_1					
+2297	visit_4_arm_1			93	61	6
+2311	enrollment_arm_1					
+2311	visit_0_arm_1	159.7	84.7	118	72	6.7
+2311	visit_1_arm_1		88	139	82	6.3
+2311	visit_2_arm_1					6.7
+2311	visit_3_arm_1		81	126	71	7
+2311	visit_4_arm_1		81	126	71	6.9
+2354	enrollment_arm_1					
+2354	visit_0_arm_1	180	60	125	91	11.9
+2354	visit_1_arm_1		62	137	105	5.6
+2354	visit_2_arm_1		63.5	136	89	5.5
+2354	visit_3_arm_1		63.5	140	94	5.6
+2354	visit_4_arm_1		63.5	140	94	6.4
+2698	enrollment_arm_1					
+2698	visit_0_arm_1	170	72	115	72	7.3
+2698	visit_1_arm_1			128	87	7.5
+2698	visit_2_arm_1			133	86	7.5
+2698	visit_3_arm_1			113	81	7.2
+2698	visit_4_arm_1			115	72	7
